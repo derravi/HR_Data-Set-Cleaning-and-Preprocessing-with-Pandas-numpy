@@ -1,0 +1,1201 @@
+employee_id,name,age,department,salary,email,join_date,experience_years,city,performance
+ID-0,Meera,21,Sales,50k,emp717@,2020/05/10,-3,delhi,
+E1,Sam,,IT,,emp939@yahoo.com,,,,EXCELENT
+E2,Meera,,Sales,,emp82@yahoo.com,2020-05-10,,suratt,Average
+EMP_3,Kunal,,finanec,115906,emp172@,05-10-2020,-3,mumbai,EXCELENT
+E4,Kunal,,IT,-5000,emp512@,,,suratt,
+ID-5,Pooja,,Finance,,emp345@gmail.com,2020-05-10,-3,suratt,Good
+E6,Harsh,,HR,,emp495@gmail.com,10/05/2020,14,mumbai,Poor
+ID-7,John,150,H R,86176,,2020/05/10,18,suratt,EXCELENT
+ID-8,Sam,,,10821,emp806@gmail.com,05-10-2020,,Surat,Poor
+EMP_9,John,59,Sales,50k,emp805@gamil.com,,2,,EXCELENT
+EMP_10,Rita,,Sales,21026,,05-10-2020,15,,Poor
+ID-11,Ankit,59,,-5000,emp652@gamil.com,2020/05/10,,Surat,
+E12,Sam,150,Finance,47989,emp733@yahoo.com,2020-05-10,19,Surat,
+ID-13,Meera,,finanec,,emp312@yahoo.com,,,Delhi,
+E14,Meera,32,IT,,emp4@gmail.com,,17,Mumbai,Excellent
+,Sam,,HR,,emp292@gmail.com,05-10-2020,-3,Delhi,Poor
+EMP_16,Ravi,,Sales,-5000,emp295@gamil.com,2020-05-10,12,mumbai,Good
+,Meera12,55,HR,,emp316@gmail.com,,,Surat,Poor
+E18,Ankit,25,H R,106264,emp33@,,17,,Average
+ID-19,Amit,,SALEs,-5000,emp528@,,,Surat,EXCELENT
+EMP_20,Sneha,150,I.T,-5000,invalid@,2020/05/10,,Surat,
+ID-21,John,,,50k,emp424@,,0,Surat,Excellent
+ID-22,John,150,Finance,50k,,2020/05/10,16,,
+ID-23,Ravi,150,HR,-5000,emp923@yahoo.com,05-10-2020,,mumbai,EXCELENT
+E24,Pooja,,IT,79867,invalid@,,,,Poor
+EMP_25,Rekha,,H R,84017,emp49@,,19,,
+ID-26,Kunal,,,-5000,emp379@,2020-05-10,,,Poor
+,Rekha,,H R,,,05-10-2020,,suratt,Excellent
+ID-28,Sam,,Sales,84735,emp209@gmail.com,2020-05-10,,Surat,Excellent
+ID-29,Sneha,150,,-5000,noemail,2020/05/10,-3,delhi,Average
+EMP_30,Ankit,150,Finance,-5000,emp329@,05-10-2020,13,Mumbai,EXCELENT
+ID-31,Pooja,,,50k,emp485@gmail.com,,,suratt,Good
+,Harsh,,,,,10/05/2020,-3,mumbai,Excellent
+ID-33,Pooja,22,IT,-5000,emp108@gamil.com,10/05/2020,,,Good
+E34,John,36,SALEs,50k,emp3@,,,,EXCELENT
+EMP_35,Sneha12,,IT,50k,emp399@,,,,
+EMP_36,Rekha,,IT,-5000,emp540@yahoo.com,2020/05/10,6,delhi,Average
+EMP_37,Harsh,150,SALEs,,emp307@gmail.com,2020-05-10,,Surat,
+ID-38,Kunal,,I.T,,emp98@,,,Surat,
+ID-39,John,45,,,emp237@yahoo.com,,-3,suratt,Excellent
+EMP_40,Ravi##,,IT,,emp329@,,2,suratt,
+E41,Harsh,,Finance,21271,,2020/05/10,-3,suratt,Good
+,Kunal,,,,emp340@gmail.com,2020-05-10,-3,mumbai,
+,"Sam ",,Sales,50k,emp851@,2020-05-10,,mumbai,Average
+,Amit,150,Finance,-5000,emp324@gamil.com,,,Delhi,Poor
+ID-45,Meera,150,Sales,50k,emp348@yahoo.com,05-10-2020,11,Mumbai,
+,Sam,40,H R,,emp635@gamil.com,05-10-2020,4,Mumbai,Excellent
+,Pooja,150,Sales,50k,invalid@,2020-05-10,,,EXCELENT
+,Ankit,36,HR,,emp576@gamil.com,2020-05-10,,,
+EMP_49,Harsh,150,HR,,emp442@,05-10-2020,,Delhi,
+E50,John@,,I.T,,emp129@gamil.com,10/05/2020,-3,suratt,
+EMP_51,Rekha,150,,142438,emp938@gamil.com,10/05/2020,,Surat,Poor
+ID-52,Meera##,,I.T,66264,invalid@,,11,,EXCELENT
+,Amit,53,SALEs,,emp784@,2020-05-10,,Mumbai,Poor
+EMP_54,Ankit,,Finance,,emp527@gamil.com,05-10-2020,,,Excellent
+EMP_55,"Kunal ",,finanec,-5000,emp597@gmail.com,10/05/2020,-3,delhi,Average
+,Sam,39,H R,50k,,2020/05/10,-3,suratt,EXCELENT
+EMP_57,Ravi,33,I.T,,emp853@yahoo.com,,,Delhi,Average
+EMP_58,Harsh,150,I.T,25634,emp198@yahoo.com,05-10-2020,9,Mumbai,
+EMP_59,Amit,,H R,50k,emp100@yahoo.com,10/05/2020,-3,suratt,Excellent
+ID-60,Ravi,50,finanec,72951,emp29@gamil.com,05-10-2020,,Mumbai,Excellent
+E61,Harsh,150,,104802,emp235@gmail.com,,-3,suratt,Excellent
+E62,Sneha,,HR,,emp259@yahoo.com,05-10-2020,-3,delhi,Excellent
+EMP_63,Amit,,SALEs,-5000,emp773@yahoo.com,05-10-2020,-3,Mumbai,
+E64,Meera,38,IT,,emp68@yahoo.com,,,Surat,Poor
+,Ravi,,Finance,,emp227@,10/05/2020,-3,Mumbai,
+ID-66,Meera,,H R,87127,emp571@gmail.com,,,Mumbai,Excellent
+,Rita,,HR,,noemail,,,Delhi,EXCELENT
+ID-68,Harsh,150,Finance,50k,emp971@gamil.com,2020-05-10,,suratt,EXCELENT
+ID-69,Rekha,,,,emp912@yahoo.com,10/05/2020,,Surat,Good
+,Meera,,SALEs,50k,invalid@,2020-05-10,11,delhi,Good
+EMP_71,Sam,31,,-5000,emp83@gmail.com,2020-05-10,,delhi,Average
+ID-72,Sam,25,SALEs,-5000,emp932@,10/05/2020,-3,,EXCELENT
+EMP_73,Meera,,Finance,,emp521@gmail.com,,,Surat,
+E74,Sneha,,Sales,,emp442@gmail.com,2020/05/10,12,mumbai,
+,Rita,150,finanec,,emp274@gamil.com,,-3,Mumbai,
+ID-76,Sneha,,Sales,,emp69@yahoo.com,10/05/2020,14,mumbai,Good
+EMP_77,Rita,,H R,-5000,emp913@,,,,Poor
+ID-78,Meera##,150,HR,,emp291@gmail.com,,17,Delhi,Good
+EMP_79,Meera##,,,,emp923@gamil.com,2020/05/10,,suratt,Excellent
+EMP_80,Rekha,55,,-5000,emp542@gmail.com,,,Delhi,
+,Ravi,,I.T,60825,emp455@gamil.com,2020/05/10,1,delhi,EXCELENT
+E82,Ankit,,Finance,125805,emp387@gamil.com,,-3,Mumbai,Average
+EMP_83,Meera,150,I.T,128070,,,13,Delhi,Good
+,Sneha,150,H R,-5000,emp100@,2020-05-10,,mumbai,Average
+ID-85,John,,H R,65701,noemail,,20,,
+,Pooja,,SALEs,140290,emp806@,2020-05-10,-3,mumbai,
+E87,John##,150,Sales,-5000,,2020-05-10,,,
+EMP_88,Pooja,,SALEs,50k,emp319@gmail.com,10/05/2020,-3,,Good
+EMP_89,Pooja,24,Finance,,emp460@gmail.com,10/05/2020,-3,Delhi,
+ID-90,Pooja,150,,50k,emp839@,2020-05-10,,,Excellent
+E91,Rita##,,SALEs,50k,emp638@gmail.com,10/05/2020,-3,Delhi,Excellent
+,Meera12,150,,,emp580@gamil.com,05-10-2020,,Mumbai,Good
+ID-93,Kunal,,I.T,50k,emp834@,10/05/2020,,Surat,Excellent
+ID-94,Harsh##,41,,,invalid@,05-10-2020,3,suratt,
+E95,Harsh,,Finance,,emp901@yahoo.com,2020/05/10,-3,,EXCELENT
+ID-96,John,,Sales,109127,emp7@gamil.com,2020/05/10,,mumbai,EXCELENT
+EMP_97,Sneha,150,,50k,emp489@yahoo.com,,,delhi,Good
+ID-98,Pooja,,,,emp178@,,-3,,EXCELENT
+E99,John,,IT,,emp111@,05-10-2020,,Delhi,
+,Sneha,,Sales,50k,emp103@,05-10-2020,,Delhi,Good
+EMP_101,Sneha,,H R,-5000,emp91@yahoo.com,2020/05/10,9,,Excellent
+EMP_102,Ravi,150,Sales,,emp120@gamil.com,10/05/2020,,suratt,Poor
+,Rekha,,IT,50k,noemail,05-10-2020,,Mumbai,
+,Ravi,49,SALEs,,emp431@gmail.com,10/05/2020,,Mumbai,Excellent
+E105,John,150,IT,,emp91@,10/05/2020,-3,Delhi,Excellent
+,Sam,,,-5000,invalid@,10/05/2020,,,Average
+ID-107,Kunal,,,88822,emp391@gamil.com,,12,,Poor
+E108,Rita,150,finanec,,noemail,10/05/2020,,delhi,Excellent
+ID-109,Kunal,,I.T,50k,emp171@gmail.com,10/05/2020,12,delhi,Average
+EMP_110,"Harsh ",,finanec,,emp914@gamil.com,,,Delhi,Average
+,Kunal,,IT,,emp632@gamil.com,05-10-2020,-3,,Average
+ID-112,Pooja,,I.T,114846,emp223@,,4,Mumbai,EXCELENT
+E113,Ravi,150,Sales,85259,,10/05/2020,,delhi,Average
+EMP_114,John,36,,50k,emp922@,2020/05/10,,Mumbai,
+,Pooja,150,Finance,-5000,emp256@yahoo.com,2020/05/10,20,suratt,
+,Amit12,150,finanec,50k,emp306@,2020-05-10,,,Excellent
+ID-117,Ravi##,150,finanec,91960,emp564@gamil.com,05-10-2020,,,
+EMP_118,Sam,,SALEs,-5000,emp243@gmail.com,,,mumbai,Average
+ID-119,Ravi,150,H R,63582,emp173@gamil.com,2020-05-10,7,Delhi,Average
+ID-120,"Harsh ",150,,50k,emp212@yahoo.com,2020-05-10,,Delhi,
+EMP_121,John,150,,,emp877@,05-10-2020,,Delhi,Average
+ID-122,Harsh,,I.T,50k,emp837@gmail.com,2020/05/10,-3,mumbai,Poor
+E123,Harsh,35,Finance,50k,emp670@gmail.com,05-10-2020,-3,,EXCELENT
+ID-124,John,150,HR,61435,emp850@gmail.com,2020-05-10,4,suratt,EXCELENT
+ID-125,Ankit@,150,IT,,emp917@,,,Mumbai,Excellent
+E126,Harsh,,H R,50k,emp198@,2020/05/10,,delhi,EXCELENT
+ID-127,"Pooja ",150,Sales,-5000,,10/05/2020,20,suratt,Excellent
+EMP_128,Ravi,,,,emp444@,2020/05/10,,delhi,Good
+ID-129,Harsh,,I.T,,emp847@,,,delhi,
+,Ankit,150,HR,-5000,emp407@,,12,,Average
+E131,Sam,,IT,-5000,emp144@,05-10-2020,10,,EXCELENT
+,Ravi,150,SALEs,,emp288@gmail.com,05-10-2020,,suratt,Good
+ID-133,Sneha,34,,,emp483@gamil.com,2020-05-10,-3,mumbai,EXCELENT
+ID-134,Rita,,finanec,-5000,emp806@,2020-05-10,,delhi,
+E135,John,150,,,,05-10-2020,9,delhi,
+ID-136,Ravi,,Sales,123412,noemail,,,,Poor
+EMP_137,Ravi,,H R,59884,emp527@,2020/05/10,-3,,Good
+,Sneha,26,HR,,emp567@gmail.com,10/05/2020,17,delhi,EXCELENT
+,Rekha,,Sales,86062,emp777@yahoo.com,2020-05-10,19,,Poor
+E140,Rekha,51,HR,-5000,emp509@gmail.com,10/05/2020,-3,,Average
+E141,Rekha,,,,emp842@gamil.com,,,suratt,Poor
+E142,Ravi,150,,16797,emp421@gamil.com,2020-05-10,0,,Poor
+ID-143,Meera,,H R,17048,emp44@gamil.com,2020-05-10,-3,mumbai,
+EMP_144,Ravi,,,,emp248@gmail.com,10/05/2020,2,,Poor
+ID-145,Sneha,150,Sales,50k,emp178@gmail.com,05-10-2020,-3,delhi,Good
+ID-146,Pooja,150,,,emp193@,2020/05/10,-3,delhi,Excellent
+E147,Sam,,H R,72618,emp23@gmail.com,,-3,Surat,EXCELENT
+ID-148,Kunal,,IT,,invalid@,2020-05-10,,,EXCELENT
+E149,Sam,35,I.T,-5000,emp400@,10/05/2020,,Surat,
+EMP_150,John,150,I.T,-5000,emp429@gamil.com,10/05/2020,-3,Mumbai,EXCELENT
+ID-151,Rekha,,finanec,57025,emp521@gmail.com,05-10-2020,6,Surat,Good
+ID-152,Amit,54,Finance,96095,emp319@,,-3,,
+EMP_153,Harsh,150,Sales,33452,emp158@yahoo.com,10/05/2020,,suratt,
+EMP_154,Harsh,56,I.T,,emp145@gamil.com,2020-05-10,,Delhi,Excellent
+,Ankit,,,,emp501@gmail.com,,,mumbai,
+,Rita,150,IT,,emp623@gamil.com,2020/05/10,-3,Delhi,Excellent
+E157,Rita,,Sales,-5000,,,,mumbai,Good
+ID-158,Rita,,I.T,,,,0,,Poor
+E159,Amit,38,I.T,50k,noemail,,,,
+E160,Pooja,,Finance,,emp59@yahoo.com,,,delhi,
+EMP_161,Sam,,H R,50k,emp779@,,8,delhi,Average
+,Meera,,SALEs,,emp321@gmail.com,05-10-2020,,Surat,Good
+,Ravi,,HR,50k,emp444@gmail.com,,-3,suratt,EXCELENT
+E164,Rita,53,,,emp176@gamil.com,2020-05-10,-3,suratt,Average
+E165,Harsh,150,I.T,,,,,Surat,
+EMP_166,Ravi,150,HR,-5000,emp463@yahoo.com,,,Delhi,
+ID-167,John,150,finanec,,emp977@yahoo.com,05-10-2020,19,mumbai,Excellent
+EMP_168,Meera,37,,11583,invalid@,10/05/2020,-3,,EXCELENT
+E169,Sneha,55,,-5000,,,,Delhi,Poor
+,Meera,150,H R,-5000,emp647@gamil.com,,,mumbai,Poor
+ID-171,Amit,150,I.T,50k,invalid@,2020/05/10,-3,suratt,Good
+EMP_172,Ankit,150,Sales,,emp758@gamil.com,,13,,EXCELENT
+ID-173,Sam@,,,-5000,,2020-05-10,,,Excellent
+ID-174,Sam##,31,,,emp883@gmail.com,,,,
+EMP_175,Sneha,,,87991,emp393@gmail.com,2020/05/10,,Mumbai,Good
+,Pooja,,H R,,emp231@yahoo.com,2020-05-10,,suratt,
+,Kunal,,IT,113310,invalid@,10/05/2020,,,
+,Rita,,HR,,emp653@gamil.com,10/05/2020,-3,,
+EMP_179,Ankit@,150,HR,,emp783@gamil.com,05-10-2020,,delhi,Poor
+ID-180,Meera,23,Sales,51137,emp711@gamil.com,10/05/2020,2,,
+ID-181,Sam,,Sales,-5000,invalid@,05-10-2020,14,,
+,John,,I.T,,emp92@,2020/05/10,18,Surat,
+E183,Rita,,H R,-5000,emp726@yahoo.com,2020/05/10,-3,Surat,Average
+E184,Rita,,finanec,,emp829@gmail.com,10/05/2020,-3,mumbai,Poor
+E185,Meera,29,HR,130194,emp912@yahoo.com,05-10-2020,-3,Surat,
+ID-186,Harsh,,,117862,emp134@gamil.com,2020-05-10,20,Surat,
+E187,Sneha,18,SALEs,,invalid@,2020-05-10,,,
+EMP_188,Sam,20,SALEs,50k,emp182@,,-3,suratt,Excellent
+E189,Pooja,44,Finance,63998,emp434@gamil.com,,,delhi,Excellent
+,Sneha,55,,,emp695@,10/05/2020,14,mumbai,
+ID-191,Pooja,150,Finance,,emp723@gmail.com,,-3,Mumbai,
+ID-192,Ravi12,150,HR,,emp735@,05-10-2020,,,Poor
+EMP_193,Pooja,36,Sales,,emp703@,,20,,Poor
+ID-194,Harsh,150,I.T,,emp349@,2020/05/10,13,Surat,Good
+ID-195,Pooja,,Sales,,emp759@gamil.com,05-10-2020,,,
+,Kunal,35,,50k,noemail,10/05/2020,-3,mumbai,Average
+ID-197,Rita,24,IT,-5000,emp222@gamil.com,2020-05-10,,Delhi,
+EMP_198,Sneha,150,I.T,-5000,emp562@,,,Delhi,
+ID-199,Harsh,,H R,50k,emp295@gmail.com,,-3,suratt,EXCELENT
+ID-200,Sam@,,Finance,134305,emp471@,05-10-2020,-3,Surat,Excellent
+E201,Pooja,30,H R,50k,emp189@,2020-05-10,6,Mumbai,
+E202,Pooja,53,Finance,50k,,,,Mumbai,EXCELENT
+EMP_203,Sam,150,,50k,emp658@,2020-05-10,18,,Good
+E204,John,,IT,,emp548@yahoo.com,2020-05-10,-3,Surat,Good
+EMP_205,John,150,Finance,50k,emp310@gamil.com,,,mumbai,
+E206,Meera,,HR,,emp462@yahoo.com,2020/05/10,-3,,Excellent
+,Sam,150,finanec,49342,emp562@,2020-05-10,3,,Average
+,Rekha,51,,50k,,2020/05/10,,,Average
+,Sneha,150,,,emp255@gmail.com,2020-05-10,20,suratt,
+EMP_210,Rita,,SALEs,-5000,emp704@yahoo.com,05-10-2020,,suratt,EXCELENT
+,Meera,33,,24129,emp848@gmail.com,,,suratt,Poor
+,Amit,,,50k,emp635@,05-10-2020,-3,,Good
+ID-213,Harsh,150,HR,,,,,delhi,EXCELENT
+E214,Pooja,28,finanec,-5000,emp4@gmail.com,2020/05/10,,Mumbai,
+E215,Sneha,,Finance,,emp31@yahoo.com,,-3,Mumbai,EXCELENT
+E216,Meera,150,I.T,,emp366@gamil.com,2020/05/10,,,Poor
+EMP_217,Harsh,150,,-5000,noemail,2020-05-10,19,,Average
+ID-218,Amit,150,I.T,-5000,,2020/05/10,,Mumbai,
+ID-219,Ravi,60,I.T,9920,emp232@gmail.com,,-3,,Good
+EMP_220,Pooja,,,,invalid@,10/05/2020,,suratt,Good
+EMP_221,Ravi12,150,H R,-5000,emp756@gmail.com,,,Surat,
+,Sneha,49,SALEs,-5000,emp338@yahoo.com,2020/05/10,,Surat,Good
+E223,Rita@,,finanec,-5000,emp116@gmail.com,10/05/2020,-3,suratt,
+EMP_224,Ankit,35,,50k,emp328@,10/05/2020,,,Excellent
+EMP_225,Harsh,,HR,,emp121@gmail.com,,,,
+E226,Kunal,,SALEs,50k,emp384@gmail.com,,,Surat,EXCELENT
+ID-227,Ravi,,IT,123777,emp112@gamil.com,05-10-2020,,mumbai,Average
+,Meera,,H R,-5000,,2020-05-10,-3,delhi,EXCELENT
+ID-229,John,,H R,,emp96@yahoo.com,05-10-2020,,Delhi,EXCELENT
+,Ankit,,SALEs,-5000,,2020-05-10,4,Surat,Excellent
+E231,Ravi,58,Finance,50k,emp292@,,,Delhi,EXCELENT
+,Sneha,,Finance,50k,emp277@gamil.com,05-10-2020,-3,mumbai,EXCELENT
+ID-233,Pooja,,Finance,,emp518@gamil.com,2020-05-10,,mumbai,Excellent
+ID-234,Harsh,,H R,19951,emp82@gmail.com,10/05/2020,,delhi,
+,Rita,33,,50k,emp253@yahoo.com,2020/05/10,,,
+EMP_236,Ravi,47,IT,50k,,,,Mumbai,Average
+,Sam,,,,,2020-05-10,15,,Average
+EMP_238,Amit,150,IT,,,10/05/2020,,,
+,Sam,,SALEs,46118,invalid@,,-3,,
+E240,Amit,37,,-5000,invalid@,2020/05/10,,,
+E241,Pooja,150,IT,,emp937@,,-3,suratt,
+ID-242,Meera,35,Sales,-5000,emp883@,,-3,Surat,Good
+,Ravi,21,,50k,emp404@yahoo.com,2020/05/10,-3,Delhi,
+,Rita,150,,,noemail,2020-05-10,9,Mumbai,Excellent
+ID-245,Meera,,H R,-5000,emp492@gmail.com,05-10-2020,,,Good
+,Sneha,25,Sales,50k,emp736@,,18,delhi,
+ID-247,Sam,,Finance,-5000,emp263@,,,delhi,
+ID-248,Rita@,150,,50k,emp511@yahoo.com,,,delhi,
+ID-249,Ravi,,Finance,,emp740@gamil.com,10/05/2020,8,Surat,
+ID-250,Kunal,31,HR,-5000,emp908@,10/05/2020,,,Poor
+ID-251,Kunal,,,,emp997@yahoo.com,05-10-2020,,Delhi,Excellent
+EMP_252,John,53,SALEs,,emp241@gmail.com,2020/05/10,,,EXCELENT
+,John@,,IT,-5000,emp293@yahoo.com,2020-05-10,-3,,Poor
+EMP_254,Pooja,,IT,50k,emp5@gamil.com,,-3,suratt,
+E255,Sneha,,SALEs,45454,emp150@gamil.com,,,Delhi,Poor
+,Pooja,150,H R,-5000,emp300@gamil.com,2020/05/10,,delhi,Average
+,Sneha,150,,,invalid@,2020/05/10,,,Average
+E258,Pooja,57,,50k,emp36@yahoo.com,2020-05-10,,Mumbai,Average
+,Rita,150,,,,2020/05/10,-3,Delhi,
+ID-260,Amit,59,IT,50k,emp559@gamil.com,2020/05/10,,delhi,Average
+E261,Ravi,25,Finance,,emp357@yahoo.com,,,suratt,
+,Kunal,150,Sales,,emp161@,2020/05/10,-3,Surat,EXCELENT
+,Harsh,53,SALEs,,emp187@gmail.com,05-10-2020,14,Delhi,Good
+ID-264,Amit,,SALEs,-5000,invalid@,05-10-2020,,delhi,Excellent
+,Ankit,,HR,50k,emp631@,,,,
+EMP_266,Ankit,,H R,139028,emp850@gmail.com,2020/05/10,2,,EXCELENT
+,Kunal,150,,,emp784@gmail.com,10/05/2020,15,Delhi,EXCELENT
+ID-268,Kunal,21,SALEs,-5000,emp400@gmail.com,05-10-2020,,suratt,Poor
+EMP_269,Rita,150,HR,50k,emp287@gamil.com,2020/05/10,,suratt,
+EMP_270,Pooja##,,,,,2020/05/10,-3,delhi,
+,Pooja,150,HR,118602,emp808@gmail.com,2020-05-10,3,,Poor
+ID-272,Amit,,Finance,50k,emp863@,10/05/2020,-3,suratt,Poor
+,Ankit,150,,,emp410@,,-3,Delhi,Poor
+ID-274,Kunal,150,,,emp364@gamil.com,2020/05/10,3,Mumbai,Excellent
+E275,Kunal,,H R,-5000,emp722@,,-3,Surat,Poor
+E276,Meera,26,SALEs,,emp732@gmail.com,05-10-2020,6,delhi,Good
+ID-277,Pooja,47,IT,50k,emp926@,,,,Poor
+EMP_278,Sneha,150,HR,,emp341@yahoo.com,05-10-2020,,Mumbai,
+ID-279,"John ",,Sales,-5000,emp822@gamil.com,,,Delhi,
+,Ankit,150,HR,73459,invalid@,2020/05/10,,Surat,Excellent
+,John,60,H R,70968,emp525@,2020-05-10,,,EXCELENT
+EMP_282,Sam,,Finance,,emp605@yahoo.com,,17,,
+ID-283,Rita,32,I.T,,emp287@gmail.com,,-3,suratt,Good
+E284,Pooja,150,H R,,emp364@gmail.com,,13,delhi,Good
+EMP_285,Rekha,,HR,,emp364@,2020/05/10,,Delhi,
+E286,Amit,,finanec,-5000,emp245@gamil.com,10/05/2020,17,Delhi,EXCELENT
+ID-287,Sneha##,49,,145086,emp583@gamil.com,2020-05-10,,delhi,Good
+,Rekha,40,SALEs,50k,noemail,2020-05-10,,,
+,Amit,150,finanec,50k,emp625@,2020/05/10,-3,Surat,Excellent
+ID-290,Harsh,,SALEs,,noemail,,,Mumbai,Average
+E291,Rita,57,HR,,emp334@gmail.com,05-10-2020,,,EXCELENT
+E292,Pooja,40,Finance,-5000,emp467@gamil.com,10/05/2020,,,Good
+EMP_293,Sneha,,,,emp752@yahoo.com,,,Delhi,EXCELENT
+EMP_294,Rekha,,I.T,-5000,emp431@gmail.com,05-10-2020,16,delhi,Average
+EMP_295,Amit,,I.T,50k,emp127@,,,,EXCELENT
+ID-296,Pooja,150,Finance,-5000,emp533@,2020-05-10,,suratt,
+E297,"Rekha ",,H R,-5000,emp346@gmail.com,2020-05-10,8,delhi,EXCELENT
+EMP_298,Sneha,,IT,,emp414@,,-3,Delhi,Average
+EMP_299,Sam,36,,50k,emp883@yahoo.com,,5,,Excellent
+EMP_300,Ravi,150,H R,86325,emp710@gamil.com,10/05/2020,,Surat,Good
+ID-301,Meera,,,-5000,emp937@gmail.com,,,Mumbai,Excellent
+E302,Pooja,,finanec,,emp861@yahoo.com,,,suratt,Poor
+EMP_303,Rekha,,SALEs,,emp104@,2020-05-10,-3,mumbai,Excellent
+EMP_304,John,150,H R,50k,,,-3,Surat,Average
+ID-305,Sneha,,,,emp410@gamil.com,2020/05/10,18,Mumbai,Excellent
+,Ravi,150,SALEs,50k,emp3@gmail.com,,10,,
+,Sam,,finanec,50k,emp76@yahoo.com,05-10-2020,-3,Mumbai,Excellent
+,Rita,53,SALEs,37285,,05-10-2020,,,EXCELENT
+,Meera,150,Finance,-5000,emp481@,10/05/2020,-3,,Average
+E310,Sam,150,HR,,emp122@gmail.com,,,Delhi,
+ID-311,Ankit,53,I.T,,noemail,10/05/2020,17,Mumbai,EXCELENT
+EMP_312,Ravi,150,,,emp807@gamil.com,2020-05-10,-3,,Good
+ID-313,Sam,150,Finance,-5000,emp855@yahoo.com,2020-05-10,,Delhi,Average
+ID-314,Rita,42,I.T,,emp922@gmail.com,,1,mumbai,
+ID-315,Meera,,,-5000,emp826@,10/05/2020,2,mumbai,EXCELENT
+,Pooja,,HR,-5000,emp631@gmail.com,,4,Surat,Good
+E317,Sam,,IT,50k,emp768@gmail.com,10/05/2020,-3,,Average
+E318,Kunal,150,Sales,50k,emp405@gamil.com,2020-05-10,-3,Mumbai,Excellent
+ID-319,Rita,150,,26809,emp89@gmail.com,,-3,Mumbai,Average
+,John,37,finanec,50k,,10/05/2020,,Surat,Average
+ID-321,Kunal##,,H R,58983,emp299@gmail.com,2020/05/10,,mumbai,
+E322,Rita,49,finanec,50k,,,,Surat,
+E323,Pooja,150,Finance,,emp423@gmail.com,05-10-2020,15,Surat,Good
+,"Pooja ",,Sales,50k,emp802@gmail.com,,16,,
+,Sneha,150,SALEs,,emp428@gamil.com,2020/05/10,-3,Mumbai,Average
+,Sam,45,HR,31548,emp35@yahoo.com,,,,Good
+ID-327,Ankit,,,50k,emp701@yahoo.com,2020-05-10,,suratt,Poor
+ID-328,Sneha12,,Finance,50k,emp698@,,,Delhi,EXCELENT
+EMP_329,Meera,150,Sales,50k,,2020-05-10,3,Delhi,Excellent
+E330,Ankit##,53,finanec,-5000,emp371@gmail.com,2020/05/10,,,Poor
+ID-331,John,24,I.T,50k,invalid@,,,,
+E332,Sneha,150,H R,102555,noemail,10/05/2020,-3,Mumbai,Good
+EMP_333,Amit,150,finanec,-5000,emp906@,2020-05-10,-3,delhi,Poor
+E334,Kunal,,,,emp273@gamil.com,2020-05-10,-3,Delhi,Poor
+E335,Ankit,35,,,emp262@gmail.com,,-3,Delhi,Poor
+EMP_336,John,,SALEs,50k,emp677@gamil.com,,3,suratt,
+E337,John,,Finance,50k,emp658@,2020/05/10,1,Delhi,Excellent
+E338,Kunal,31,HR,,emp360@yahoo.com,,-3,,Excellent
+EMP_339,Rekha,,,,emp403@yahoo.com,2020/05/10,-3,Delhi,Excellent
+EMP_340,Sam,,finanec,,emp220@,05-10-2020,,,
+E341,Sneha,27,SALEs,,emp120@gmail.com,2020-05-10,,mumbai,Poor
+EMP_342,Rita,,HR,111392,invalid@,05-10-2020,,Surat,Poor
+,Amit,46,Sales,50k,emp856@,,,Mumbai,EXCELENT
+E344,Rekha,,HR,111565,emp63@gmail.com,10/05/2020,8,delhi,Good
+EMP_345,Amit,37,Finance,-5000,emp29@gamil.com,,-3,Surat,EXCELENT
+EMP_346,Harsh,,H R,,emp38@,2020/05/10,,,Good
+,Kunal,,SALEs,11800,emp636@gmail.com,,-3,Mumbai,
+ID-348,Meera,,finanec,-5000,emp592@gamil.com,2020-05-10,13,mumbai,Excellent
+,"Meera ",38,finanec,-5000,emp939@gmail.com,10/05/2020,,Delhi,Poor
+ID-350,Harsh,150,SALEs,50k,emp612@yahoo.com,2020-05-10,2,Surat,Good
+,Amit,25,IT,50k,emp68@yahoo.com,10/05/2020,6,Delhi,
+ID-352,Sam,44,H R,115342,emp679@yahoo.com,,-3,delhi,
+E353,Amit,,finanec,,noemail,,,Surat,Poor
+EMP_354,Sneha,,Sales,,emp891@gamil.com,10/05/2020,,Delhi,Good
+,Rita,150,HR,149708,emp134@gmail.com,2020-05-10,,Surat,
+,Pooja,150,HR,50k,emp433@yahoo.com,,18,,
+,Pooja,150,,50k,emp639@,2020/05/10,6,mumbai,
+EMP_358,Kunal,150,Finance,,emp15@,,,mumbai,Poor
+EMP_359,Ravi,,H R,50k,emp84@yahoo.com,2020-05-10,1,,
+ID-360,Amit,46,finanec,50k,emp283@gmail.com,2020-05-10,-3,delhi,Good
+ID-361,Amit,,IT,-5000,emp247@gamil.com,05-10-2020,4,Delhi,Excellent
+EMP_362,Harsh,42,SALEs,,emp462@gmail.com,,,,EXCELENT
+EMP_363,Ankit,50,IT,140494,emp451@gamil.com,10/05/2020,,delhi,
+EMP_364,"Sneha ",33,I.T,,emp405@,,,Delhi,
+E365,Sneha,150,,,emp14@gmail.com,2020/05/10,-3,suratt,Excellent
+ID-366,Sneha,52,Sales,50k,,,,,Poor
+E367,Kunal,,HR,-5000,emp410@yahoo.com,,11,mumbai,EXCELENT
+,Meera,150,SALEs,-5000,emp667@yahoo.com,,,,Average
+E369,Harsh,150,I.T,,noemail,10/05/2020,,suratt,Excellent
+ID-370,Meera,,H R,102956,emp363@,10/05/2020,-3,suratt,Poor
+E371,Rekha,,I.T,79933,emp802@gamil.com,,,Surat,EXCELENT
+,Meera,47,IT,147939,emp870@gmail.com,2020/05/10,1,Mumbai,Excellent
+E373,Rekha,,Sales,36856,emp230@gmail.com,2020-05-10,11,Surat,Average
+E374,Ravi,,SALEs,37923,invalid@,05-10-2020,,,
+ID-375,Sam,,finanec,-5000,invalid@,2020/05/10,-3,suratt,Average
+E376,Kunal,44,H R,,emp933@,2020/05/10,,suratt,Poor
+E377,Rekha,19,,104330,emp633@,2020-05-10,,Mumbai,
+E378,Ankit,24,finanec,50k,,05-10-2020,,Mumbai,Poor
+ID-379,Rekha,,SALEs,,,,,,Average
+E380,Rekha,,IT,,emp866@yahoo.com,2020-05-10,3,Mumbai,
+EMP_381,Pooja,,HR,,emp968@yahoo.com,,-3,suratt,
+E382,Pooja,,SALEs,50k,emp284@,2020-05-10,-3,,Poor
+ID-383,Amit,,Finance,,emp990@yahoo.com,,,Surat,Average
+,John,150,SALEs,,emp994@gmail.com,05-10-2020,-3,,
+ID-385,Pooja,,IT,61058,emp589@yahoo.com,,,,EXCELENT
+E386,Sam,,,88041,emp471@yahoo.com,,-3,Surat,Excellent
+EMP_387,Harsh,,SALEs,,invalid@,10/05/2020,,suratt,Excellent
+EMP_388,Sam12,,Finance,,,,,suratt,
+EMP_389,Sneha,45,,,emp549@gamil.com,2020/05/10,,Surat,Poor
+EMP_390,Meera,60,I.T,,emp870@gmail.com,10/05/2020,-3,Surat,Poor
+EMP_391,Amit,50,Finance,-5000,emp138@gamil.com,05-10-2020,9,Surat,EXCELENT
+EMP_392,Ankit,,IT,50k,emp920@,10/05/2020,,Delhi,
+E393,John,18,Finance,102668,emp494@gmail.com,05-10-2020,,mumbai,
+ID-394,John,,Sales,-5000,,2020-05-10,,mumbai,
+EMP_395,Ankit,48,Finance,,emp235@,,-3,,Average
+,Sneha,150,HR,-5000,,,,,Average
+EMP_397,Ankit,,SALEs,28300,emp513@yahoo.com,05-10-2020,16,,Good
+,Ravi,,Finance,-5000,emp640@yahoo.com,2020/05/10,-3,Delhi,Good
+EMP_399,Ankit,,IT,,emp915@gmail.com,,,Mumbai,Average
+E400,John12,150,Finance,50k,,10/05/2020,-3,suratt,
+EMP_401,Ravi,,H R,,noemail,2020/05/10,-3,suratt,
+E402,Rita,,,50k,emp368@gamil.com,10/05/2020,-3,Surat,Average
+ID-403,Sneha,,IT,,emp206@gamil.com,05-10-2020,-3,,
+EMP_404,Ankit12,41,,,emp719@gamil.com,05-10-2020,20,Surat,EXCELENT
+,Sam,31,HR,,,05-10-2020,,Surat,
+,Ankit,,finanec,50k,emp753@gamil.com,2020/05/10,8,suratt,Average
+,Amit,,HR,50k,emp210@,10/05/2020,,,Poor
+EMP_408,Harsh,35,Finance,121239,emp970@,,1,,Good
+ID-409,Ravi,,SALEs,50k,,05-10-2020,13,Surat,Good
+EMP_410,Meera,150,,94731,emp649@yahoo.com,2020/05/10,,mumbai,
+EMP_411,John##,,finanec,,emp125@,,6,delhi,
+EMP_412,Rekha,,I.T,135492,emp841@yahoo.com,05-10-2020,8,delhi,
+,Ankit,150,Finance,58936,emp184@gamil.com,,6,,Excellent
+,Rekha,,H R,,emp179@gamil.com,2020/05/10,,delhi,
+EMP_415,Ankit,55,Sales,50k,invalid@,2020/05/10,-3,Mumbai,Excellent
+ID-416,Sneha,150,SALEs,-5000,emp411@gmail.com,,,,Average
+,John##,,Sales,,emp139@,,,,
+E418,Sneha,46,,108393,invalid@,05-10-2020,16,Delhi,
+EMP_419,Pooja,42,H R,,emp844@gmail.com,05-10-2020,20,Mumbai,Excellent
+EMP_420,Meera,,IT,50k,emp981@gamil.com,2020-05-10,-3,,
+ID-421,Sam,,Finance,,emp937@yahoo.com,2020-05-10,,,
+,Pooja,150,,,invalid@,,,,
+ID-423,Pooja12,39,,-5000,emp908@,10/05/2020,-3,delhi,Average
+EMP_424,Sam,150,finanec,25499,emp964@gmail.com,,,,Average
+EMP_425,Rekha,24,,50k,emp482@,2020/05/10,-3,,Poor
+EMP_426,John,150,Sales,-5000,emp757@gmail.com,2020-05-10,,Mumbai,Good
+EMP_427,Pooja,150,Finance,,,10/05/2020,,Mumbai,Good
+EMP_428,Sam,150,,,invalid@,05-10-2020,,delhi,EXCELENT
+EMP_429,John,,IT,,invalid@,05-10-2020,15,delhi,Average
+EMP_430,Sam,45,IT,,emp185@,,-3,,Poor
+E431,Harsh,150,IT,,invalid@,,1,delhi,Poor
+ID-432,Rekha,150,HR,,emp614@gmail.com,10/05/2020,,,
+E433,Rekha,150,Sales,-5000,emp545@,2020-05-10,,Mumbai,Excellent
+EMP_434,Rekha,,I.T,50k,,,,suratt,Good
+ID-435,Harsh,47,finanec,-5000,emp540@,,4,Mumbai,Excellent
+E436,Rita,,Finance,50k,emp5@yahoo.com,2020-05-10,10,Surat,EXCELENT
+,Amit,,SALEs,50k,emp400@gamil.com,2020-05-10,,,Poor
+E438,Sam,43,I.T,50k,emp708@gamil.com,2020-05-10,9,delhi,Average
+,Sam,,Finance,53713,emp314@gamil.com,,-3,Surat,
+E440,Rita##,,HR,,,10/05/2020,-3,Mumbai,Poor
+,Rekha,,IT,50k,emp167@yahoo.com,2020/05/10,,Mumbai,Excellent
+,Sam,150,IT,,emp309@,2020/05/10,-3,suratt,Poor
+ID-443,Kunal@,,finanec,-5000,emp905@,05-10-2020,-3,,Good
+,Rita,,HR,38886,emp945@yahoo.com,,-3,,EXCELENT
+ID-445,Meera,,,50k,emp620@gmail.com,,,mumbai,
+E446,Pooja,,IT,,emp59@gmail.com,2020/05/10,15,delhi,EXCELENT
+E447,Rekha,,,50k,noemail,,,suratt,Excellent
+EMP_448,Kunal,,HR,,invalid@,,1,Delhi,Good
+EMP_449,Sam,,finanec,82718,emp637@yahoo.com,2020-05-10,5,,Poor
+ID-450,Ankit,27,H R,,emp559@gamil.com,2020/05/10,,mumbai,
+EMP_451,Harsh,,Finance,-5000,emp803@yahoo.com,,,,Average
+EMP_452,Amit,150,Sales,40483,noemail,,,Delhi,Average
+ID-453,Pooja,,SALEs,-5000,emp238@,2020-05-10,,Surat,Poor
+E454,Pooja,,H R,,emp176@gmail.com,05-10-2020,-3,,
+ID-455,John,150,H R,,emp151@yahoo.com,,-3,suratt,Average
+EMP_456,Ravi,60,HR,,emp394@gmail.com,,,Delhi,Excellent
+EMP_457,Sneha,,I.T,,emp586@yahoo.com,2020/05/10,-3,Delhi,Average
+ID-458,Ankit##,,Finance,-5000,emp671@gmail.com,05-10-2020,,Delhi,Average
+EMP_459,Amit@,,IT,124638,emp721@gamil.com,,-3,suratt,Average
+E460,Ankit,150,H R,50k,emp737@yahoo.com,,20,Surat,EXCELENT
+,Rita,,Finance,81780,emp678@gamil.com,2020-05-10,,delhi,Average
+EMP_462,Sneha,34,IT,50k,emp410@yahoo.com,,,,
+,Kunal,,finanec,15371,,2020-05-10,19,,Poor
+EMP_464,Harsh,150,SALEs,50k,emp312@,,,,Poor
+EMP_465,Rekha,150,Finance,,noemail,2020/05/10,9,delhi,Excellent
+,Kunal,20,Finance,,,05-10-2020,18,suratt,EXCELENT
+EMP_467,Sam,,Sales,,emp565@yahoo.com,2020-05-10,,mumbai,EXCELENT
+EMP_468,Rekha,56,SALEs,,emp783@gmail.com,2020/05/10,,Surat,Excellent
+,Harsh,,IT,-5000,noemail,,,Mumbai,
+,Ankit,,finanec,92217,noemail,10/05/2020,6,Delhi,Good
+,Harsh,,IT,89044,emp24@yahoo.com,,-3,,Average
+,Rekha,,H R,-5000,emp977@yahoo.com,,16,delhi,
+,Amit##,,IT,113427,emp840@,05-10-2020,,,
+E474,Ravi,43,IT,50k,emp31@yahoo.com,,5,,Good
+E475,Rekha12,,HR,,emp388@,,,delhi,
+EMP_476,John,150,H R,50k,emp212@,05-10-2020,,Surat,Average
+ID-477,"Ravi ",150,,29363,emp728@,,,,
+EMP_478,Sam,150,Finance,-5000,emp924@yahoo.com,2020/05/10,,Delhi,Average
+E479,Sam,22,finanec,,emp811@gmail.com,10/05/2020,0,suratt,EXCELENT
+EMP_480,Ravi,150,H R,,,2020/05/10,-3,,Poor
+E481,"Amit ",,IT,,invalid@,05-10-2020,,delhi,
+E482,Rekha,,,50k,emp2@,05-10-2020,-3,Mumbai,Good
+ID-483,Ankit,150,H R,,invalid@,2020/05/10,19,,Good
+,"Meera ",,SALEs,77233,emp761@gamil.com,2020-05-10,,Delhi,
+E485,Harsh,44,finanec,50k,invalid@,2020-05-10,,,
+ID-486,Ankit,,Finance,50k,,10/05/2020,,Delhi,EXCELENT
+EMP_487,Ankit,35,I.T,17484,emp80@yahoo.com,2020/05/10,-3,Delhi,Poor
+EMP_488,Rita,,,,emp946@gamil.com,10/05/2020,9,Delhi,
+,Rekha,,finanec,,emp373@,2020-05-10,7,delhi,Average
+ID-490,Sam,,H R,136325,emp78@,2020-05-10,,Delhi,Average
+E491,Harsh,59,H R,,emp192@,2020/05/10,,Delhi,Good
+EMP_492,Kunal,150,IT,,emp262@gmail.com,2020/05/10,,,Poor
+EMP_493,Amit,,I.T,64244,emp681@yahoo.com,,-3,delhi,EXCELENT
+ID-494,Amit,52,I.T,9451,emp756@gmail.com,,,Mumbai,Average
+,Sam,,I.T,,emp782@gamil.com,05-10-2020,,mumbai,Good
+ID-496,Ravi,,HR,81507,emp471@gmail.com,10/05/2020,,Delhi,
+E497,Harsh@,19,IT,50k,emp132@gamil.com,,,Surat,
+,Harsh12,34,finanec,-5000,emp522@,2020/05/10,-3,Surat,Average
+ID-499,Rita,150,Sales,50k,emp983@yahoo.com,2020/05/10,-3,Delhi,
+ID-500,Meera,,Sales,,emp995@yahoo.com,,,mumbai,Excellent
+ID-501,Sam,55,I.T,-5000,emp466@,2020/05/10,,Surat,Good
+EMP_502,Rita@,41,,79986,emp597@yahoo.com,05-10-2020,,mumbai,Excellent
+E503,Sam,47,I.T,-5000,emp714@yahoo.com,10/05/2020,-3,,EXCELENT
+,Harsh,20,,,emp407@gmail.com,05-10-2020,17,delhi,EXCELENT
+E505,Kunal,,finanec,,invalid@,2020-05-10,,Mumbai,EXCELENT
+,Meera,49,finanec,,emp957@,,,,
+,Sneha,,,,emp511@yahoo.com,05-10-2020,,suratt,Poor
+ID-508,Amit,,IT,50k,emp757@gmail.com,05-10-2020,,suratt,EXCELENT
+EMP_509,Rita,,IT,138881,emp624@gamil.com,10/05/2020,20,suratt,Excellent
+,Meera,,Sales,50k,emp835@gmail.com,05-10-2020,16,mumbai,Average
+EMP_511,Sam,55,,-5000,emp163@,05-10-2020,,,Excellent
+ID-512,Rita,,,-5000,emp435@gamil.com,,-3,suratt,Excellent
+EMP_513,Rekha,150,SALEs,-5000,emp987@gamil.com,2020-05-10,,Surat,EXCELENT
+EMP_514,"Ravi ",,,55583,emp935@gamil.com,,17,Surat,Good
+ID-515,Rita,,SALEs,-5000,,,-3,delhi,EXCELENT
+EMP_516,Kunal,,finanec,95395,emp460@yahoo.com,,12,suratt,
+EMP_517,Ravi,,finanec,117075,emp986@gamil.com,10/05/2020,,,
+E518,Rekha,,Sales,,emp473@yahoo.com,2020-05-10,,Delhi,
+EMP_519,Harsh,,I.T,,emp56@,,4,Delhi,Good
+E520,Sneha,150,HR,,emp594@yahoo.com,05-10-2020,,suratt,EXCELENT
+E521,Ravi,,SALEs,,emp395@,10/05/2020,,,
+EMP_522,Sam,150,finanec,-5000,emp100@,2020/05/10,,suratt,Excellent
+ID-523,Kunal,150,H R,80024,emp588@yahoo.com,10/05/2020,4,mumbai,Good
+E524,Rita,,Finance,-5000,emp429@yahoo.com,2020-05-10,,Delhi,
+EMP_525,Sneha,150,IT,50k,emp588@gmail.com,2020/05/10,,mumbai,Poor
+,Amit,150,H R,-5000,,2020-05-10,,Mumbai,Poor
+,John,150,SALEs,50k,invalid@,10/05/2020,-3,Mumbai,Average
+EMP_528,Meera,,,,emp714@yahoo.com,05-10-2020,13,,EXCELENT
+ID-529,Kunal,150,Finance,,emp846@gamil.com,2020-05-10,,,Good
+ID-530,Pooja,,H R,,emp536@gamil.com,,-3,mumbai,Excellent
+ID-531,Rekha,,SALEs,54279,emp780@gamil.com,2020-05-10,-3,Delhi,EXCELENT
+ID-532,Ravi,,finanec,76826,emp96@gamil.com,05-10-2020,,Mumbai,Average
+,Sam,150,HR,50k,,05-10-2020,,mumbai,
+,Pooja,150,H R,50k,emp580@yahoo.com,,-3,mumbai,Good
+EMP_535,Amit,150,HR,50k,emp813@gamil.com,2020-05-10,17,Surat,Average
+EMP_536,Sneha,,SALEs,,,05-10-2020,,Surat,Good
+E537,Meera,,IT,,emp742@gmail.com,2020/05/10,9,delhi,
+,Meera,,SALEs,50k,emp998@,05-10-2020,-3,Delhi,Excellent
+,Meera,150,H R,,emp84@gamil.com,10/05/2020,,delhi,Average
+E540,Harsh,,HR,116503,,05-10-2020,14,,Good
+E541,Ravi,150,SALEs,-5000,,10/05/2020,15,,Poor
+EMP_542,Pooja,41,,28727,emp222@gamil.com,,-3,Delhi,
+ID-543,Ravi,25,I.T,50k,emp782@yahoo.com,,17,suratt,Good
+EMP_544,Ravi,,Sales,,emp492@yahoo.com,,0,,EXCELENT
+,Rekha,,HR,-5000,emp643@gmail.com,,-3,,EXCELENT
+EMP_546,Ankit,150,,-5000,emp522@gmail.com,2020-05-10,,mumbai,
+,John,150,H R,,invalid@,,,,Poor
+E548,Meera,,H R,,emp357@yahoo.com,,12,mumbai,Excellent
+E549,John,150,IT,,emp728@yahoo.com,2020-05-10,,Delhi,
+,Meera,23,I.T,-5000,emp176@yahoo.com,2020/05/10,3,Delhi,
+ID-551,Pooja,45,Sales,50k,emp488@,05-10-2020,3,Surat,Average
+,John,,H R,-5000,noemail,2020/05/10,,delhi,
+,Ankit,,finanec,72643,emp444@gmail.com,05-10-2020,-3,Mumbai,EXCELENT
+EMP_554,Harsh,150,,50k,emp909@gamil.com,,14,Mumbai,EXCELENT
+,Ravi,,HR,,emp2@,,,,
+EMP_556,Sam,150,SALEs,-5000,emp399@gamil.com,,10,suratt,Excellent
+,Harsh,,I.T,,emp64@yahoo.com,,,Surat,Excellent
+,Sneha,18,finanec,14611,emp171@gamil.com,2020-05-10,,suratt,EXCELENT
+EMP_559,Sam,150,IT,,emp583@yahoo.com,2020/05/10,4,,
+EMP_560,Rekha,,H R,,emp602@gamil.com,,-3,delhi,
+ID-561,Kunal,,SALEs,50k,emp474@yahoo.com,,9,Surat,
+EMP_562,Kunal,,Finance,,emp626@gamil.com,,-3,Mumbai,EXCELENT
+E563,Pooja,,finanec,,emp43@gamil.com,,,Mumbai,Poor
+,Ankit,,,,emp307@gmail.com,,-3,Mumbai,Good
+EMP_565,Harsh,34,I.T,50k,emp992@gamil.com,,,,EXCELENT
+EMP_566,Sam,,Sales,93373,invalid@,2020-05-10,-3,,EXCELENT
+,Pooja,34,H R,141620,emp224@,05-10-2020,,Delhi,
+ID-568,Ravi,150,,,emp757@yahoo.com,10/05/2020,11,,Poor
+E569,Amit,150,,-5000,emp222@,05-10-2020,-3,mumbai,Good
+E570,Pooja,44,Sales,-5000,emp941@yahoo.com,2020-05-10,,Mumbai,
+ID-571,Ankit,150,IT,,invalid@,,11,mumbai,EXCELENT
+ID-572,Amit,150,SALEs,50k,emp295@yahoo.com,2020/05/10,,suratt,Average
+,Sam,150,H R,,emp695@yahoo.com,,3,,
+,Sam,150,H R,,emp121@gmail.com,05-10-2020,,mumbai,Good
+EMP_575,Harsh,,Finance,,emp273@yahoo.com,2020-05-10,20,suratt,Average
+ID-576,Ankit,,I.T,120899,emp605@gmail.com,2020-05-10,-3,Surat,Good
+ID-577,Amit,150,,,emp466@gamil.com,2020-05-10,,,EXCELENT
+E578,Sam,57,,13043,emp611@gamil.com,2020/05/10,1,delhi,Poor
+ID-579,Meera12,22,I.T,-5000,emp319@gmail.com,05-10-2020,-3,Mumbai,Excellent
+EMP_580,Rita,150,finanec,,emp806@,2020-05-10,-3,,EXCELENT
+E581,Sneha,,SALEs,50k,emp624@gmail.com,2020/05/10,,Surat,Good
+,John,,,-5000,emp855@gmail.com,2020/05/10,14,Surat,Average
+E583,Rita,,,8112,emp947@yahoo.com,,-3,delhi,Poor
+EMP_584,Sam,24,,94951,emp353@gmail.com,05-10-2020,,mumbai,
+ID-585,Rekha,,SALEs,,emp368@yahoo.com,05-10-2020,,Mumbai,Poor
+EMP_586,Pooja,,,-5000,emp264@gmail.com,10/05/2020,,Delhi,
+EMP_587,Sneha,,Sales,50k,emp328@gmail.com,05-10-2020,2,,EXCELENT
+,Amit,,Sales,,emp793@gamil.com,05-10-2020,7,Mumbai,
+EMP_589,Ravi,,H R,19304,emp384@gamil.com,05-10-2020,,,Poor
+EMP_590,Ravi,,IT,,emp455@gamil.com,10/05/2020,,,Excellent
+ID-591,Rita,150,IT,50k,emp786@gamil.com,,,mumbai,Good
+E592,Harsh,,Sales,,emp666@gamil.com,2020/05/10,,Delhi,
+EMP_593,Sam,,,144955,,,16,Mumbai,Good
+,Sam,44,SALEs,50k,emp681@gmail.com,2020-05-10,,,Average
+E595,Ankit,19,Finance,-5000,emp625@gmail.com,2020-05-10,-3,Surat,EXCELENT
+,Rekha,,HR,50k,,,-3,delhi,Average
+E597,"Rekha ",,Finance,121484,emp876@,10/05/2020,-3,delhi,Excellent
+,Harsh,,IT,107824,noemail,05-10-2020,8,suratt,Poor
+,Amit,23,finanec,42506,emp149@gamil.com,2020/05/10,-3,,
+EMP_600,John,150,,50k,emp362@yahoo.com,,,suratt,EXCELENT
+,Rita,,H R,,invalid@,10/05/2020,,Surat,Good
+ID-602,John,47,,,emp647@gamil.com,05-10-2020,-3,Delhi,Average
+ID-603,Meera,,Finance,-5000,invalid@,,,delhi,Average
+EMP_604,Rita,,HR,,emp705@gamil.com,,-3,delhi,
+ID-605,Ravi##,,Finance,104217,emp818@gamil.com,10/05/2020,,suratt,EXCELENT
+E606,Harsh,150,SALEs,50k,emp839@gmail.com,05-10-2020,-3,mumbai,
+,Rita,,Sales,,emp667@yahoo.com,2020/05/10,,delhi,Good
+E608,Sam,150,,50k,emp306@gamil.com,,2,delhi,Excellent
+E609,Ankit,,I.T,,,2020/05/10,,Delhi,
+E610,Meera,,IT,105847,emp611@,2020/05/10,-3,delhi,
+ID-611,John,150,H R,,emp242@gamil.com,,,,Good
+ID-612,Sam,150,SALEs,,emp700@,2020-05-10,20,mumbai,
+ID-613,Ankit,,Finance,-5000,emp693@gmail.com,2020-05-10,-3,suratt,Excellent
+EMP_614,Ankit,150,finanec,,,,,suratt,Average
+E615,Ankit,35,I.T,50k,,05-10-2020,-3,Delhi,
+E616,Sneha,24,,50k,emp107@yahoo.com,2020/05/10,-3,,Poor
+EMP_617,Rita,,,122462,emp107@yahoo.com,2020-05-10,-3,,Good
+E618,John,,Finance,,emp441@yahoo.com,2020-05-10,,Mumbai,
+EMP_619,Rita,,H R,-5000,invalid@,,,delhi,EXCELENT
+E620,Meera,,Sales,-5000,emp292@gamil.com,10/05/2020,,Mumbai,Good
+EMP_621,Harsh,42,,50k,noemail,2020-05-10,,delhi,Good
+,Kunal,150,,,emp447@,05-10-2020,-3,mumbai,Good
+E623,John,,HR,51810,,2020-05-10,,Mumbai,Poor
+ID-624,Rita,,SALEs,31613,emp904@gamil.com,,16,mumbai,Poor
+ID-625,Ankit,150,,,emp430@gamil.com,05-10-2020,2,Mumbai,
+ID-626,Meera,150,Finance,,invalid@,2020/05/10,,Delhi,Poor
+E627,John,,IT,143075,emp748@,10/05/2020,19,mumbai,Poor
+ID-628,Sneha12,45,Sales,80704,,,,,
+EMP_629,Rita,150,IT,,,10/05/2020,,delhi,Poor
+E630,Amit,,Sales,135477,emp883@yahoo.com,10/05/2020,,Mumbai,
+E631,Sneha,,Sales,50k,,,,suratt,
+,John,50,,,emp958@yahoo.com,,,Mumbai,EXCELENT
+EMP_633,Kunal,,I.T,,emp887@yahoo.com,10/05/2020,12,,Good
+EMP_634,Kunal,150,,-5000,emp349@gmail.com,10/05/2020,-3,suratt,Excellent
+ID-635,Ankit,44,finanec,-5000,emp612@gmail.com,2020-05-10,-3,mumbai,
+E636,Kunal,,I.T,39156,,10/05/2020,,suratt,
+ID-637,Ankit,,HR,102250,emp6@gamil.com,,20,Delhi,EXCELENT
+EMP_638,Ankit,,SALEs,,emp205@gamil.com,,-3,delhi,
+,Rekha,,H R,,emp427@,05-10-2020,18,suratt,Excellent
+E640,Rekha,150,,132250,emp795@gamil.com,,,suratt,Poor
+EMP_641,Sneha,,finanec,-5000,emp760@,,3,,Excellent
+E642,Sneha,150,Finance,,emp295@gamil.com,2020/05/10,,delhi,
+E643,Meera,150,IT,-5000,emp389@gmail.com,05-10-2020,,mumbai,Average
+EMP_644,Sam,,H R,,emp995@gamil.com,2020-05-10,17,Mumbai,Poor
+ID-645,Pooja,150,I.T,,emp72@yahoo.com,2020-05-10,14,delhi,EXCELENT
+,Rita,52,Sales,50k,emp776@yahoo.com,,,Mumbai,Poor
+ID-647,Rekha@,34,H R,-5000,emp657@gamil.com,10/05/2020,,,
+,Sneha,21,,-5000,emp936@,2020/05/10,,Surat,
+E649,Sam,,Sales,,emp252@gamil.com,,,suratt,
+,Meera,150,,50k,emp619@gamil.com,,-3,Delhi,Good
+E651,Sam,150,,32295,emp16@gamil.com,05-10-2020,,,EXCELENT
+E652,Rita,150,I.T,127664,,2020/05/10,,Surat,
+EMP_653,"Sam ",,Finance,-5000,emp949@yahoo.com,,,Mumbai,Excellent
+,Meera,,HR,,emp122@gmail.com,10/05/2020,,mumbai,Excellent
+EMP_655,Sneha,150,finanec,50k,emp491@,,,mumbai,Average
+,Ankit,,finanec,,emp329@gmail.com,2020/05/10,-3,delhi,Excellent
+E657,Ravi,,I.T,,emp309@gamil.com,2020-05-10,,delhi,Poor
+EMP_658,Ankit,,H R,,emp969@gmail.com,05-10-2020,-3,,
+E659,Sneha,150,Sales,,emp670@,05-10-2020,,Mumbai,
+E660,Kunal,,,,,2020-05-10,-3,suratt,EXCELENT
+EMP_661,Kunal,56,I.T,,emp526@gmail.com,10/05/2020,,Surat,Poor
+ID-662,Sneha,,finanec,61271,emp944@yahoo.com,2020/05/10,7,suratt,Good
+ID-663,Pooja,,finanec,50k,emp960@,,,delhi,Average
+E664,Sneha,,Sales,,emp821@gamil.com,05-10-2020,-3,delhi,Excellent
+E665,Sneha,,I.T,-5000,emp545@yahoo.com,2020/05/10,,Surat,Average
+,"Ravi ",150,I.T,,emp433@gamil.com,05-10-2020,,delhi,Good
+,"Sam ",,H R,50k,emp470@gamil.com,05-10-2020,7,,EXCELENT
+E668,Amit,,HR,36084,noemail,2020/05/10,,,
+,Rita@,,I.T,,emp765@gamil.com,2020/05/10,-3,,Average
+EMP_670,Ravi,,H R,28124,emp14@yahoo.com,10/05/2020,,,
+EMP_671,Rita,150,HR,107875,emp187@,,,Delhi,Excellent
+EMP_672,Kunal,22,I.T,108905,emp171@gmail.com,10/05/2020,,mumbai,Average
+ID-673,John,150,HR,,noemail,2020-05-10,,,
+ID-674,Pooja,150,,42269,emp95@,,,suratt,
+EMP_675,Sam,,finanec,50k,noemail,2020-05-10,-3,Delhi,EXCELENT
+,Ravi,,I.T,50k,emp486@gmail.com,2020/05/10,,delhi,EXCELENT
+ID-677,Ravi,150,,50k,emp38@yahoo.com,2020/05/10,,,EXCELENT
+,Amit##,,H R,,emp604@gamil.com,05-10-2020,16,delhi,EXCELENT
+ID-679,Kunal,150,,-5000,emp895@,,,mumbai,Poor
+E680,Rekha,,Finance,,,2020-05-10,-3,delhi,
+EMP_681,Sneha,,IT,,emp683@,,2,Mumbai,Poor
+ID-682,Amit,,IT,-5000,emp449@gamil.com,,6,Mumbai,EXCELENT
+ID-683,John,150,HR,,emp278@gmail.com,,,mumbai,EXCELENT
+EMP_684,Kunal,150,IT,43311,emp721@,2020/05/10,7,Surat,Poor
+EMP_685,Sneha,,SALEs,89194,emp260@yahoo.com,2020-05-10,,delhi,Average
+E686,John,43,,,emp229@gamil.com,,,Surat,EXCELENT
+ID-687,John12,38,Sales,93207,emp605@gamil.com,2020/05/10,,Mumbai,
+EMP_688,Kunal,,H R,,emp305@gamil.com,10/05/2020,-3,Mumbai,Excellent
+EMP_689,John,,I.T,50k,emp412@gmail.com,10/05/2020,-3,Surat,Poor
+EMP_690,Meera,,IT,32664,emp49@gmail.com,05-10-2020,3,Surat,Good
+E691,Rekha@,150,HR,117200,emp494@gamil.com,,4,Delhi,Poor
+,Pooja,19,Sales,50k,emp348@gamil.com,10/05/2020,3,suratt,Good
+,Amit,,SALEs,-5000,emp494@yahoo.com,2020-05-10,,delhi,Excellent
+EMP_694,Kunal,,H R,-5000,emp898@gamil.com,10/05/2020,9,suratt,EXCELENT
+E695,Sam,,IT,56480,emp14@,10/05/2020,,Delhi,Average
+E696,John,25,,20429,emp312@gamil.com,,,,
+,"Amit ",150,IT,87905,emp454@gamil.com,05-10-2020,-3,suratt,
+EMP_698,Kunal,150,finanec,-5000,emp219@yahoo.com,,,suratt,
+ID-699,Kunal,150,I.T,,,,-3,mumbai,Good
+EMP_700,Pooja,,Sales,,emp660@yahoo.com,10/05/2020,7,delhi,EXCELENT
+EMP_701,Kunal,53,H R,-5000,emp964@yahoo.com,,2,Surat,
+EMP_702,John,150,,,emp731@,2020-05-10,5,,
+EMP_703,Kunal,37,H R,-5000,noemail,2020-05-10,,suratt,Poor
+EMP_704,Kunal,51,Sales,,emp409@gamil.com,2020-05-10,8,delhi,Poor
+ID-705,John,150,,-5000,emp635@,2020-05-10,,Mumbai,Average
+E706,Meera,,I.T,,,,,Surat,
+,Harsh,,,,emp397@gamil.com,2020-05-10,,Surat,Good
+EMP_708,Kunal,58,Finance,,,2020-05-10,-3,delhi,
+,Rita,,Sales,-5000,emp933@gmail.com,2020/05/10,,,Poor
+,Meera,150,finanec,50k,emp561@gamil.com,05-10-2020,-3,Mumbai,
+E711,Sam,,Finance,-5000,noemail,,,,Average
+ID-712,Kunal,,Sales,50k,emp878@gmail.com,2020-05-10,,,Good
+EMP_713,Sam,,H R,-5000,emp688@,,-3,Delhi,EXCELENT
+ID-714,Kunal,,finanec,40824,emp699@,,-3,Delhi,Poor
+E715,Ravi,,H R,50k,,2020-05-10,,Mumbai,
+E716,Pooja,,I.T,-5000,emp778@yahoo.com,2020-05-10,-3,Mumbai,Good
+EMP_717,Ravi,,I.T,-5000,noemail,05-10-2020,,,
+EMP_718,Ravi,150,I.T,,emp570@gmail.com,,15,,
+E719,Ravi,,IT,50k,,05-10-2020,-3,Delhi,Poor
+,John,,H R,-5000,emp290@gmail.com,2020/05/10,,,
+E721,"Ravi ",,SALEs,50k,emp327@gmail.com,,-3,,Good
+,Amit,33,IT,,emp388@gmail.com,10/05/2020,-3,mumbai,
+E723,Ankit,,SALEs,,emp163@,10/05/2020,,Surat,Excellent
+ID-724,John@,,HR,,emp196@yahoo.com,,-3,suratt,EXCELENT
+ID-725,Rita,21,,50k,emp193@,,,delhi,EXCELENT
+E726,Ravi,,,,,,,,EXCELENT
+E727,Kunal##,,I.T,-5000,emp817@yahoo.com,10/05/2020,,mumbai,Poor
+,Pooja,150,,37765,invalid@,,3,mumbai,Excellent
+EMP_729,Harsh,52,I.T,-5000,emp298@,2020/05/10,2,mumbai,EXCELENT
+ID-730,Harsh,34,,50k,emp952@gmail.com,2020/05/10,,Delhi,Average
+,Amit,150,finanec,-5000,invalid@,2020/05/10,,Surat,
+ID-732,Rekha,150,HR,67791,emp744@yahoo.com,10/05/2020,,suratt,EXCELENT
+EMP_733,Meera,150,,,emp622@gmail.com,05-10-2020,,,Good
+ID-734,Sam12,,SALEs,-5000,emp331@yahoo.com,2020-05-10,6,Mumbai,Excellent
+ID-735,John,,H R,,emp617@yahoo.com,10/05/2020,,Surat,Excellent
+E736,Pooja,46,Sales,,noemail,2020/05/10,1,mumbai,
+EMP_737,Harsh,150,IT,-5000,emp221@gmail.com,,-3,delhi,Good
+,Kunal,,I.T,138265,emp782@yahoo.com,,,Mumbai,
+,Rita,48,I.T,50k,emp775@gmail.com,2020-05-10,,delhi,Poor
+ID-740,Kunal,,I.T,14679,emp332@yahoo.com,2020/05/10,,suratt,Average
+EMP_741,Ankit,,H R,50k,noemail,,,,Excellent
+E742,Kunal,42,,-5000,emp818@gmail.com,,,delhi,EXCELENT
+E743,Ankit,,HR,50k,emp861@,05-10-2020,-3,Surat,
+EMP_744,John,28,IT,-5000,,,,,Good
+,Amit,59,H R,50k,emp264@gamil.com,2020-05-10,-3,Surat,
+EMP_746,Harsh,19,HR,50k,emp576@yahoo.com,,,,Poor
+ID-747,Sneha,,,-5000,emp872@,,-3,delhi,Poor
+E748,Harsh##,,,,emp227@gamil.com,,,Delhi,Good
+,Sneha,39,HR,,emp772@gamil.com,10/05/2020,-3,delhi,Average
+ID-750,Rekha,,finanec,-5000,emp15@,2020/05/10,4,mumbai,Poor
+,Kunal,32,IT,,emp352@yahoo.com,2020/05/10,12,,
+EMP_752,Ravi,150,Finance,,emp530@yahoo.com,,-3,Delhi,Average
+E753,Rita,20,I.T,50k,emp829@gamil.com,2020/05/10,,Delhi,
+E754,Rita,,HR,-5000,emp917@gmail.com,05-10-2020,,,Average
+ID-755,Meera@,150,,50k,emp823@gamil.com,10/05/2020,18,,EXCELENT
+,"Rekha ",,I.T,,emp343@,05-10-2020,,Delhi,Good
+ID-757,Ankit,,finanec,50k,invalid@,2020-05-10,-3,delhi,Good
+E758,Sneha,,HR,,emp466@gmail.com,,,delhi,
+ID-759,Ankit,150,,50k,emp783@gmail.com,,,Mumbai,
+EMP_760,Kunal,150,Sales,,emp106@gmail.com,10/05/2020,-3,delhi,Poor
+ID-761,Rekha,,IT,,,,-3,,Average
+EMP_762,Rekha,36,,-5000,emp136@gmail.com,,,,Average
+,Sneha,,Finance,50k,emp277@,,-3,,Good
+ID-764,Pooja,150,Sales,50k,invalid@,,19,suratt,Excellent
+E765,Rekha,,IT,,emp243@,10/05/2020,-3,Delhi,
+E766,Meera,31,Sales,,emp967@gamil.com,2020-05-10,8,,Good
+E767,Amit,150,Sales,,emp773@yahoo.com,10/05/2020,,Delhi,Good
+EMP_768,Rita,38,,50k,emp295@gmail.com,2020-05-10,,Delhi,Good
+,Harsh,,,,emp944@gamil.com,2020/05/10,,Delhi,Good
+EMP_770,Rekha,150,IT,,emp991@,,18,,
+E771,Sam,,HR,50k,emp43@yahoo.com,,0,delhi,
+ID-772,Rekha,150,I.T,,,2020-05-10,-3,Surat,
+,Ravi,59,finanec,103427,emp83@gamil.com,,5,suratt,Poor
+,Ankit,,finanec,,emp771@gmail.com,2020/05/10,2,delhi,Poor
+EMP_775,Sam,150,finanec,,emp426@yahoo.com,2020/05/10,-3,Surat,EXCELENT
+EMP_776,Amit,,SALEs,,emp515@,10/05/2020,,Surat,Poor
+,Ravi,150,HR,,emp740@,10/05/2020,7,,
+,Meera,,IT,,emp5@,2020-05-10,16,Mumbai,Average
+ID-779,Amit,37,,,emp139@gamil.com,,-3,,Average
+E780,John,21,IT,50k,emp913@gmail.com,,,delhi,Good
+E781,Rekha,150,,,emp536@gmail.com,2020-05-10,,,
+ID-782,Sneha,21,H R,136280,emp278@gmail.com,2020/05/10,,,Good
+E783,Ravi,22,finanec,,,2020-05-10,-3,Delhi,
+EMP_784,Kunal,150,Finance,50k,,,-3,,EXCELENT
+,Kunal,,HR,,emp105@gamil.com,,,suratt,Poor
+E786,Amit##,,Finance,-5000,emp32@,10/05/2020,2,Delhi,
+E787,Amit,50,SALEs,-5000,emp456@yahoo.com,,,,Average
+E788,John,,H R,-5000,emp530@gamil.com,,11,mumbai,EXCELENT
+EMP_789,Pooja,,H R,,invalid@,10/05/2020,,,Excellent
+ID-790,Rita,150,Finance,50k,,,-3,,Excellent
+,Ankit,,I.T,131018,noemail,05-10-2020,,suratt,EXCELENT
+EMP_792,Sam,150,Sales,,,,6,,
+ID-793,Meera,26,IT,,emp907@gmail.com,,20,,Average
+ID-794,Harsh@,18,Sales,125303,emp372@yahoo.com,,10,delhi,
+E795,Amit,60,,50k,emp238@gmail.com,10/05/2020,-3,suratt,Average
+ID-796,Sam,150,finanec,-5000,emp319@gmail.com,2020-05-10,8,,
+E797,Sneha##,,,,emp861@gmail.com,10/05/2020,,Mumbai,Poor
+EMP_798,Kunal,21,SALEs,61576,,10/05/2020,,Delhi,EXCELENT
+,Amit@,,IT,50k,emp319@yahoo.com,2020/05/10,,,Average
+EMP_800,Rekha,150,H R,,emp712@yahoo.com,2020/05/10,3,delhi,
+ID-801,Harsh,,IT,-5000,emp232@yahoo.com,,,,Poor
+E802,Pooja,28,Sales,,emp765@,2020/05/10,-3,,EXCELENT
+E803,Meera,,H R,,emp558@,,-3,delhi,Average
+EMP_804,Sneha,,SALEs,116208,,,-3,Mumbai,
+,Sam,,IT,50k,emp814@gmail.com,10/05/2020,-3,delhi,
+ID-806,Meera,,I.T,50k,emp139@,2020/05/10,,delhi,Good
+,Rekha,,HR,,emp438@yahoo.com,,9,suratt,EXCELENT
+ID-808,John,150,IT,,emp342@yahoo.com,2020/05/10,,delhi,
+,Sneha,,finanec,,emp805@gmail.com,05-10-2020,,Delhi,
+E810,Amit,,I.T,-5000,emp801@gamil.com,,,mumbai,
+ID-811,Rekha,,IT,,emp742@yahoo.com,05-10-2020,,delhi,
+ID-812,John,,HR,50k,noemail,,,Delhi,Good
+,Meera,150,Finance,106900,emp922@gmail.com,,-3,suratt,EXCELENT
+,Kunal,150,,,emp277@yahoo.com,,,,EXCELENT
+,Sam,,,50k,emp659@gmail.com,,,,Poor
+EMP_816,Sam,,Finance,-5000,emp444@gmail.com,,,suratt,EXCELENT
+,Pooja##,150,Sales,,invalid@,,,Mumbai,Average
+ID-818,Kunal,150,,-5000,emp751@gamil.com,2020/05/10,19,Surat,Excellent
+ID-819,Rita,,,,emp146@gamil.com,05-10-2020,19,delhi,Excellent
+ID-820,Ankit,26,I.T,-5000,noemail,05-10-2020,,Surat,Average
+ID-821,Harsh,,H R,-5000,,,12,delhi,
+E822,Harsh,,Finance,,,10/05/2020,-3,Surat,Average
+,Meera,52,H R,-5000,emp399@gmail.com,10/05/2020,,suratt,
+ID-824,Amit,18,SALEs,101502,emp292@gmail.com,05-10-2020,,Surat,EXCELENT
+,Kunal,34,SALEs,-5000,emp804@yahoo.com,,20,delhi,Average
+,Kunal,39,IT,,emp311@gamil.com,,19,Surat,EXCELENT
+ID-827,John,,Finance,,emp292@gmail.com,10/05/2020,,mumbai,
+ID-828,Meera,,Sales,-5000,emp806@gmail.com,05-10-2020,6,,Good
+,Harsh,51,Sales,,,,,Delhi,EXCELENT
+ID-830,Ravi,150,H R,,emp244@gmail.com,2020/05/10,,delhi,Excellent
+,Harsh,41,,,,05-10-2020,-3,mumbai,
+ID-832,John,150,,,emp118@yahoo.com,,5,Mumbai,
+ID-833,Rita12,150,IT,,emp872@gmail.com,,,Mumbai,Poor
+E834,Rekha,150,SALEs,50k,invalid@,2020/05/10,-3,Surat,Good
+EMP_835,Rita,150,SALEs,,emp83@gmail.com,2020/05/10,-3,,
+,Meera,,HR,50k,emp820@,10/05/2020,-3,,Poor
+,Pooja##,,,,,10/05/2020,-3,Delhi,Average
+,Pooja,59,IT,,emp863@yahoo.com,10/05/2020,15,Surat,
+,Meera,,,50k,emp112@,10/05/2020,-3,delhi,Poor
+EMP_840,John,150,,40507,emp369@yahoo.com,,,Surat,Good
+,Kunal,,IT,143789,emp823@gmail.com,,,Mumbai,Average
+EMP_842,Meera,150,Finance,-5000,emp690@,,-3,suratt,Poor
+E843,Ravi,,IT,,noemail,2020/05/10,-3,Delhi,EXCELENT
+EMP_844,Kunal,,,,noemail,,18,Delhi,Excellent
+ID-845,Rita@,38,finanec,,emp315@gamil.com,2020/05/10,,,Average
+ID-846,Ravi,,I.T,-5000,emp693@gamil.com,05-10-2020,-3,,EXCELENT
+E847,Ravi,150,,104366,,05-10-2020,,mumbai,
+ID-848,Sam##,150,SALEs,,emp673@gamil.com,2020/05/10,,delhi,
+EMP_849,Ravi,,H R,,emp50@gmail.com,05-10-2020,3,,
+E850,Ankit,,,,emp279@,2020/05/10,,Mumbai,
+,Sam,46,Sales,-5000,invalid@,,19,mumbai,EXCELENT
+ID-852,Harsh,150,Sales,50k,emp664@gmail.com,05-10-2020,,delhi,Average
+,Pooja,150,Finance,50k,emp822@yahoo.com,,1,,Average
+,"Kunal ",,finanec,,emp674@yahoo.com,05-10-2020,,suratt,EXCELENT
+ID-855,Sneha,,finanec,-5000,invalid@,05-10-2020,,Delhi,
+EMP_856,Pooja,43,SALEs,50k,invalid@,,-3,,Average
+EMP_857,John,150,,50k,emp706@,,,Surat,
+ID-858,Harsh,,Sales,50k,emp592@gamil.com,2020-05-10,-3,Delhi,Excellent
+E859,"Sneha ",25,,-5000,emp464@gamil.com,05-10-2020,-3,mumbai,Excellent
+ID-860,Kunal,,H R,-5000,emp713@,,,Mumbai,Poor
+,Ankit,,Finance,50k,emp127@gmail.com,2020/05/10,,,Average
+,Meera,,Finance,50k,noemail,2020-05-10,,mumbai,
+,Ravi@,,IT,,,,-3,delhi,EXCELENT
+,"Harsh ",,,-5000,invalid@,,-3,Delhi,EXCELENT
+E865,Ankit,,IT,,,05-10-2020,,Delhi,
+E866,Kunal,37,Finance,-5000,noemail,05-10-2020,11,suratt,
+EMP_867,Harsh,20,I.T,,emp838@,05-10-2020,2,suratt,Poor
+ID-868,Harsh,,Finance,,emp576@yahoo.com,,-3,delhi,
+ID-869,Sam,150,,-5000,emp24@gamil.com,,,delhi,
+E870,Meera,26,Finance,,emp362@yahoo.com,05-10-2020,14,Surat,
+EMP_871,Sam,,Finance,50k,emp56@gamil.com,05-10-2020,18,Delhi,Good
+,Ankit,31,IT,,,10/05/2020,,Surat,Average
+,Sam,150,finanec,,emp317@gmail.com,2020-05-10,-3,Mumbai,
+E874,Rekha,150,finanec,50k,,,-3,mumbai,
+E875,Harsh,,IT,,invalid@,2020-05-10,,Delhi,EXCELENT
+EMP_876,Rekha,28,finanec,50k,emp789@gamil.com,05-10-2020,20,delhi,Excellent
+,John,,HR,19549,emp181@yahoo.com,05-10-2020,,Delhi,Good
+E878,Kunal,,H R,,emp958@gamil.com,,,Surat,
+,Harsh,,HR,86392,emp359@gmail.com,10/05/2020,,suratt,EXCELENT
+ID-880,Rekha,150,H R,50k,emp223@yahoo.com,2020/05/10,,Delhi,Poor
+EMP_881,Harsh,150,H R,123105,emp976@gamil.com,10/05/2020,,Delhi,Excellent
+ID-882,Ankit,,SALEs,,emp305@gamil.com,2020-05-10,17,mumbai,Excellent
+E883,Kunal,150,Finance,-5000,emp302@yahoo.com,,-3,delhi,Poor
+E884,Amit,,SALEs,-5000,emp325@gamil.com,05-10-2020,-3,Mumbai,Poor
+,Kunal,30,,,emp694@,10/05/2020,-3,delhi,Good
+ID-886,Sneha,,finanec,,emp852@,2020/05/10,,Surat,
+,Sam,,finanec,,emp572@,2020-05-10,,,Poor
+E888,Meera,,,,emp305@gamil.com,05-10-2020,0,delhi,Good
+,Kunal,,Finance,50k,emp795@gmail.com,2020-05-10,6,mumbai,
+EMP_890,John,,I.T,50k,emp49@,2020/05/10,0,Delhi,Excellent
+ID-891,Sam,,H R,-5000,emp67@gmail.com,10/05/2020,,Mumbai,Good
+EMP_892,Amit,,IT,,emp409@yahoo.com,05-10-2020,-3,,Excellent
+,Ankit,,SALEs,,emp690@yahoo.com,10/05/2020,,Mumbai,EXCELENT
+ID-894,Harsh,150,SALEs,16296,emp158@gmail.com,10/05/2020,-3,Surat,
+EMP_895,Meera,,,,emp646@,05-10-2020,,,Good
+,Sam,,,50k,emp163@yahoo.com,05-10-2020,-3,suratt,
+E897,Kunal,150,HR,50k,,10/05/2020,-3,Delhi,
+EMP_898,Kunal,,,50k,emp110@gmail.com,2020/05/10,,delhi,Poor
+E899,Sam,31,Finance,,invalid@,2020/05/10,,suratt,Good
+EMP_900,John,,Sales,,emp859@gmail.com,,,Mumbai,
+ID-901,Meera,,,,emp526@gamil.com,10/05/2020,-3,Surat,Average
+EMP_902,Sneha,,HR,,emp560@gamil.com,2020-05-10,-3,Surat,Poor
+,Ankit,,finanec,,emp269@yahoo.com,2020/05/10,9,mumbai,EXCELENT
+ID-904,Ankit,,Finance,,emp107@gamil.com,,-3,Surat,
+ID-905,Amit,,,,emp897@yahoo.com,2020-05-10,7,Mumbai,Good
+,Meera,,I.T,,emp122@gamil.com,,,,EXCELENT
+ID-907,Kunal,,SALEs,50k,invalid@,2020/05/10,-3,,Average
+E908,Rita,150,SALEs,,emp214@,,,Mumbai,
+EMP_909,Pooja,31,SALEs,,emp371@gamil.com,05-10-2020,,delhi,Excellent
+EMP_910,Amit,,HR,50k,emp358@yahoo.com,,-3,,Excellent
+E911,Rita,,Sales,50k,emp341@,,,Mumbai,
+,Pooja,,,50k,emp533@gmail.com,2020-05-10,,Surat,EXCELENT
+,Meera,,I.T,,emp750@gamil.com,2020/05/10,,,Excellent
+EMP_914,John,54,Finance,27601,emp363@gamil.com,,,delhi,EXCELENT
+ID-915,Amit,,I.T,,emp703@gmail.com,,,suratt,Average
+EMP_916,Rekha12,150,I.T,,invalid@,2020/05/10,11,Mumbai,Average
+ID-917,Meera,,Finance,48171,emp253@,2020/05/10,,mumbai,Average
+,Rekha,23,H R,86426,emp864@gamil.com,,20,,Good
+,John@,59,SALEs,-5000,emp324@gamil.com,,,Mumbai,
+,Rita,,SALEs,-5000,noemail,05-10-2020,-3,Mumbai,Excellent
+E921,Rita,,SALEs,76420,emp537@gmail.com,,,suratt,Good
+E922,Pooja12,,HR,147136,emp428@gmail.com,2020-05-10,-3,Mumbai,
+EMP_923,Ankit,150,Finance,-5000,emp214@gamil.com,,,,
+E924,Kunal,,HR,50k,emp622@gmail.com,,,,
+EMP_925,"Ankit ",25,HR,124591,emp749@yahoo.com,10/05/2020,8,Delhi,Poor
+ID-926,Amit,,,85344,emp211@gamil.com,,,Surat,Poor
+,Amit,,,19901,emp605@,10/05/2020,-3,Delhi,Good
+EMP_928,Amit,48,Sales,50k,,,,mumbai,
+E929,Sneha,19,Finance,-5000,emp594@gamil.com,2020-05-10,,Mumbai,Excellent
+,John,,IT,50k,emp837@gamil.com,2020-05-10,-3,mumbai,Average
+,Kunal,46,finanec,,emp136@,05-10-2020,-3,suratt,
+ID-932,Kunal,,I.T,,emp195@gamil.com,,,Surat,Average
+E933,Amit,150,finanec,,emp700@yahoo.com,2020-05-10,19,mumbai,
+EMP_934,Pooja,150,H R,50k,emp612@yahoo.com,2020-05-10,,Surat,EXCELENT
+ID-935,Amit,150,IT,-5000,emp34@yahoo.com,,,mumbai,Average
+E936,Kunal,53,I.T,41353,emp737@gmail.com,05-10-2020,7,,Good
+,Kunal,150,SALEs,,emp744@yahoo.com,2020-05-10,5,delhi,
+ID-938,Kunal,,Sales,,emp943@,,18,suratt,Excellent
+E939,Sam,,SALEs,,emp382@,05-10-2020,,Surat,
+EMP_940,John,,Sales,,emp54@,2020-05-10,,suratt,Excellent
+ID-941,Meera,,Finance,,emp595@yahoo.com,,,Delhi,Good
+E942,Harsh,,IT,143201,emp229@gamil.com,10/05/2020,3,,Good
+ID-943,Rita,150,finanec,-5000,emp526@yahoo.com,,18,delhi,
+,Meera,,Finance,,emp57@gamil.com,2020/05/10,,Mumbai,EXCELENT
+ID-945,Rekha,25,Finance,,emp215@gmail.com,2020-05-10,,,Average
+,Meera,57,finanec,,emp247@gmail.com,2020-05-10,-3,,
+EMP_947,Sam,150,,31723,emp328@yahoo.com,,,mumbai,
+,Meera,,Finance,-5000,emp876@gmail.com,2020-05-10,,,
+,Pooja,58,Finance,50k,noemail,10/05/2020,,Surat,Excellent
+EMP_950,Sneha,18,Finance,50k,emp770@gmail.com,,0,delhi,Good
+E951,Ravi,,Finance,,emp629@gmail.com,,,delhi,EXCELENT
+EMP_952,Kunal,,SALEs,,emp275@gmail.com,10/05/2020,-3,Surat,Excellent
+,Rekha,,IT,,emp251@gamil.com,2020-05-10,-3,Surat,Good
+EMP_954,Amit,,SALEs,48670,emp489@yahoo.com,05-10-2020,,Surat,EXCELENT
+EMP_955,Meera,46,HR,-5000,emp447@yahoo.com,,-3,Delhi,
+E956,Sam12,56,H R,,invalid@,10/05/2020,18,Surat,Poor
+E957,Kunal,,Sales,,emp365@yahoo.com,2020-05-10,-3,suratt,Good
+ID-958,Sam,,H R,50k,emp237@,05-10-2020,,mumbai,Poor
+E959,Meera,,H R,50k,emp688@gmail.com,,17,mumbai,EXCELENT
+ID-960,Ravi,,finanec,,emp233@yahoo.com,2020/05/10,,suratt,EXCELENT
+ID-961,Pooja,22,SALEs,36489,,2020/05/10,-3,Surat,
+ID-962,Kunal,,IT,17343,emp599@,10/05/2020,,delhi,Excellent
+ID-963,Rita,,IT,,emp62@gamil.com,,,mumbai,Average
+E964,Rita,150,Sales,-5000,emp151@gmail.com,,12,Mumbai,Good
+,Pooja,32,finanec,91203,emp646@yahoo.com,05-10-2020,-3,Surat,
+ID-966,Harsh,,IT,,invalid@,,,Mumbai,Excellent
+EMP_967,Kunal##,,,50k,emp679@yahoo.com,05-10-2020,-3,suratt,Good
+E968,Pooja,18,I.T,,emp70@yahoo.com,2020-05-10,-3,Surat,
+EMP_969,Kunal,150,H R,50k,emp222@gamil.com,10/05/2020,,,Excellent
+,John,,HR,,emp527@yahoo.com,10/05/2020,,suratt,Average
+E971,John,,I.T,,emp480@yahoo.com,10/05/2020,20,Surat,Good
+E972,Sneha,,H R,50k,emp775@gamil.com,10/05/2020,-3,,Poor
+ID-973,Meera12,,I.T,,emp320@,,-3,delhi,
+E974,Ravi,150,finanec,-5000,noemail,,-3,delhi,Excellent
+EMP_975,Meera,,,,emp946@,,-3,suratt,
+E976,Amit,,,,,,13,mumbai,Excellent
+,Sneha,41,HR,,,,,suratt,Excellent
+,Rita,150,HR,,emp68@gmail.com,,,delhi,Poor
+EMP_979,Rekha,27,,-5000,emp892@gamil.com,2020/05/10,,suratt,
+E980,Meera,41,,-5000,emp696@gamil.com,,,delhi,Poor
+E981,Sam,,HR,50k,emp287@yahoo.com,2020/05/10,19,,
+E982,Pooja,36,Sales,79573,emp703@gmail.com,,10,mumbai,Average
+ID-983,"Amit ",150,Finance,,emp985@gamil.com,,,,
+EMP_984,Amit,150,finanec,-5000,emp233@,10/05/2020,,Surat,EXCELENT
+E985,Meera,29,,38723,noemail,10/05/2020,,,Average
+E986,Rekha,,,107708,emp415@yahoo.com,10/05/2020,-3,Mumbai,
+E987,Ravi,,Sales,50k,emp288@gamil.com,2020-05-10,,,Poor
+,Rekha,,finanec,,,,-3,mumbai,Poor
+,Rekha,,H R,140747,emp112@yahoo.com,,,,Excellent
+E990,Harsh,51,Finance,50k,emp847@gamil.com,10/05/2020,-3,mumbai,EXCELENT
+E991,Pooja,42,SALEs,50k,emp955@gmail.com,2020-05-10,1,Surat,EXCELENT
+EMP_992,Rita,34,Sales,,emp511@,,,Mumbai,Poor
+EMP_993,Kunal,,Sales,50k,emp357@gamil.com,10/05/2020,,mumbai,Average
+ID-994,Harsh,56,I.T,50k,emp544@yahoo.com,2020-05-10,14,suratt,Excellent
+E995,Pooja,,I.T,,noemail,,0,mumbai,Excellent
+EMP_996,John,,I.T,50k,emp625@yahoo.com,,,mumbai,Poor
+E997,Ankit,,HR,,emp823@gmail.com,10/05/2020,8,Mumbai,Average
+,Harsh,,Finance,,,,-3,delhi,EXCELENT
+E999,Kunal12,150,IT,79043,emp840@gmail.com,2020-05-10,-3,mumbai,Excellent
+E1000,Sneha12,150,HR,,,2020-05-10,,,Good
+ID-1001,Rekha,,finanec,107795,emp598@gmail.com,2020/05/10,4,Surat,Excellent
+,Kunal,39,HR,,emp201@gmail.com,2020/05/10,,,
+ID-1003,Rekha,,IT,,emp340@,2020-05-10,,Surat,EXCELENT
+ID-1004,Sam,,HR,13127,emp217@gamil.com,,,,
+EMP_1005,Ankit,53,IT,-5000,emp422@,10/05/2020,,Mumbai,Poor
+,Ankit,,,,emp653@yahoo.com,2020/05/10,,Delhi,
+,Pooja,38,HR,,emp965@gmail.com,2020/05/10,6,Delhi,Poor
+,John,150,,,emp630@yahoo.com,05-10-2020,9,Surat,Good
+E1009,Pooja,150,Finance,,invalid@,2020/05/10,,mumbai,Poor
+EMP_1010,Sneha,,Sales,-5000,emp364@yahoo.com,05-10-2020,,Delhi,Poor
+,Kunal,150,Sales,33889,emp658@,2020/05/10,17,delhi,
+E1012,Pooja##,59,SALEs,,emp30@gmail.com,,,Surat,EXCELENT
+EMP_1013,Rita,,IT,-5000,emp66@gmail.com,2020/05/10,,,
+,"Pooja ",44,SALEs,63394,emp417@gmail.com,,17,Mumbai,EXCELENT
+,Kunal,,,50k,emp760@gmail.com,2020/05/10,-3,Delhi,EXCELENT
+E1016,Ankit,150,SALEs,,emp829@gmail.com,05-10-2020,16,Delhi,
+ID-1017,Pooja,22,H R,147484,,10/05/2020,,suratt,Good
+E1018,Meera##,43,IT,50k,emp939@yahoo.com,10/05/2020,,Mumbai,Excellent
+EMP_1019,Ankit,,SALEs,50k,emp162@gamil.com,2020-05-10,-3,Delhi,
+ID-1020,Harsh,52,IT,50k,emp926@gmail.com,2020-05-10,,Mumbai,Average
+,Sam@,40,finanec,,emp204@gamil.com,05-10-2020,,Surat,
+ID-1022,Sneha@,,IT,,emp207@gmail.com,,,mumbai,Good
+ID-1023,Rekha,20,H R,,,,-3,Delhi,EXCELENT
+ID-1024,Kunal,49,I.T,,noemail,05-10-2020,15,suratt,
+E1025,John,,IT,,emp990@gamil.com,2020-05-10,11,Delhi,Good
+EMP_1026,Sneha,51,,50k,emp410@,,,Delhi,
+E1027,Pooja,,Sales,,emp538@,2020-05-10,-3,mumbai,Excellent
+E1028,John,49,H R,,emp396@,,,Surat,EXCELENT
+ID-1029,Amit,150,IT,,,10/05/2020,-3,,
+ID-1030,Harsh12,,SALEs,49481,emp957@yahoo.com,,-3,,EXCELENT
+ID-1031,Sam,,,,emp222@gamil.com,,-3,mumbai,Good
+ID-1032,Ravi,,SALEs,39300,,05-10-2020,,Surat,Average
+E1033,Sam,150,finanec,-5000,emp55@,05-10-2020,15,Mumbai,Excellent
+E1034,Sam,150,HR,,emp991@,10/05/2020,-3,,
+ID-1035,Rekha12,30,Sales,-5000,emp142@yahoo.com,2020-05-10,,suratt,Good
+E1036,Pooja,150,IT,50k,emp404@,2020/05/10,-3,suratt,Poor
+ID-1037,Ankit,60,,,emp545@gamil.com,2020/05/10,,Mumbai,
+,Amit,150,,50k,emp151@,05-10-2020,-3,,EXCELENT
+E1039,Sam,,,,emp319@gamil.com,10/05/2020,8,suratt,Good
+ID-1040,Ravi,150,,-5000,,10/05/2020,,Surat,
+EMP_1041,"Harsh ",150,finanec,-5000,emp563@gamil.com,,,Surat,Average
+ID-1042,Sneha,150,I.T,109008,noemail,2020-05-10,,suratt,Poor
+EMP_1043,Amit,48,finanec,56867,,10/05/2020,6,,Average
+EMP_1044,Harsh,,finanec,,emp635@gamil.com,,,Surat,Average
+ID-1045,Pooja,150,Finance,,emp701@gmail.com,,,suratt,Excellent
+E1046,Rita,150,,,emp117@gamil.com,2020-05-10,,,
+EMP_1047,Ankit,150,SALEs,118389,emp389@yahoo.com,10/05/2020,,Delhi,Good
+EMP_1048,Harsh,,HR,29608,emp273@gamil.com,2020-05-10,19,,Good
+EMP_1049,Amit,,IT,106287,emp927@,,16,suratt,
+ID-1050,Ankit,,Finance,-5000,emp783@yahoo.com,,,mumbai,Average
+ID-1051,Meera@,150,,-5000,emp222@gamil.com,05-10-2020,,Delhi,Average
+ID-1052,Harsh,21,I.T,145150,emp674@gamil.com,05-10-2020,,Surat,Average
+EMP_1053,Harsh,44,HR,-5000,emp353@,2020-05-10,,Mumbai,Good
+,Kunal##,150,HR,20252,emp174@,2020-05-10,3,suratt,Good
+ID-1055,Pooja,55,,,noemail,,,,Good
+EMP_1056,Meera,,SALEs,17256,emp377@gmail.com,05-10-2020,,mumbai,Poor
+E1057,Kunal,,IT,-5000,emp596@gmail.com,05-10-2020,,mumbai,Average
+E1058,Sneha,34,HR,25008,emp872@gamil.com,2020-05-10,,mumbai,Poor
+EMP_1059,John12,39,Sales,50k,noemail,2020/05/10,,delhi,
+ID-1060,John,,H R,86654,emp423@gamil.com,,2,suratt,Average
+EMP_1061,Ravi,150,,50k,emp740@,10/05/2020,,mumbai,Average
+,Ankit@,53,Finance,,emp861@gmail.com,,,Mumbai,Average
+E1063,Rekha,,IT,,emp33@gmail.com,,7,Delhi,
+ID-1064,Pooja,,SALEs,,emp931@,05-10-2020,-3,,
+EMP_1065,Pooja,,IT,-5000,emp12@yahoo.com,10/05/2020,,Mumbai,Poor
+EMP_1066,Sneha,57,HR,,,05-10-2020,6,Delhi,Good
+,John,32,HR,50k,emp865@gmail.com,2020-05-10,,Delhi,EXCELENT
+E1068,Meera12,,Sales,,noemail,2020-05-10,14,,Excellent
+EMP_1069,Rekha,,I.T,-5000,emp39@yahoo.com,10/05/2020,,Mumbai,
+E1070,Kunal,,Sales,85921,emp10@gamil.com,,,,Poor
+EMP_1071,Sneha,22,,89694,emp102@,2020/05/10,-3,Delhi,Good
+,Meera,58,,,emp156@gmail.com,05-10-2020,16,,
+ID-1073,Ravi,150,HR,18524,emp613@gmail.com,05-10-2020,,delhi,Excellent
+EMP_1074,John,,I.T,,emp687@,2020-05-10,-3,suratt,Excellent
+ID-1075,Rita,150,HR,,emp329@gamil.com,05-10-2020,,suratt,EXCELENT
+EMP_1076,Kunal,,finanec,21828,emp97@gamil.com,2020/05/10,,Delhi,
+EMP_1077,Kunal,150,SALEs,,,05-10-2020,,Mumbai,Poor
+EMP_1078,Meera,150,SALEs,,emp704@gmail.com,05-10-2020,-3,,Good
+ID-1079,Amit,150,finanec,81919,emp367@gmail.com,05-10-2020,-3,,
+E1080,John,,SALEs,50k,invalid@,2020/05/10,,suratt,
+EMP_1081,Harsh,150,finanec,,emp604@yahoo.com,,,,
+,Pooja,58,SALEs,,emp344@gmail.com,2020-05-10,,mumbai,EXCELENT
+ID-1083,Ravi,,HR,,emp272@gamil.com,2020-05-10,-3,,Good
+EMP_1084,John,,H R,106058,,10/05/2020,,delhi,Poor
+E1085,Amit12,45,HR,,emp279@gamil.com,,,suratt,Poor
+,Meera,42,H R,50k,emp581@gamil.com,,10,,Good
+E1087,Rekha,,Finance,50k,emp753@,2020-05-10,,delhi,Poor
+ID-1088,Harsh,150,IT,,emp620@,2020-05-10,15,Surat,Good
+EMP_1089,Meera,150,,,emp854@gamil.com,,,Delhi,Excellent
+ID-1090,John##,,H R,50k,,,2,Delhi,Average
+EMP_1091,Rekha,,Sales,44541,emp219@yahoo.com,2020/05/10,,Delhi,Average
+E1092,Pooja,,IT,,,2020-05-10,-3,Mumbai,
+ID-1093,Harsh,150,finanec,59368,emp533@yahoo.com,05-10-2020,,delhi,
+,Sam,47,Finance,136306,emp618@,,10,Mumbai,EXCELENT
+,John,150,Finance,,emp82@,10/05/2020,12,Surat,Excellent
+E1096,Rekha,,I.T,,emp392@yahoo.com,,,,EXCELENT
+,Harsh,,Sales,,emp368@,,11,delhi,EXCELENT
+E1098,Ravi,,,17472,emp420@gmail.com,2020/05/10,5,Surat,Good
+EMP_1099,Ankit,25,SALEs,90383,invalid@,2020/05/10,,Surat,Excellent
+EMP_1100,Sam,,Finance,,emp271@,05-10-2020,,suratt,Poor
+EMP_1101,Pooja,150,IT,49055,noemail,2020-05-10,,delhi,EXCELENT
+EMP_1102,Pooja,29,IT,,,05-10-2020,,,Average
+EMP_1103,Meera,,IT,95842,emp831@,2020-05-10,-3,delhi,
+,Harsh,150,Finance,,emp436@gamil.com,05-10-2020,-3,Surat,Average
+E1105,Harsh,150,Finance,-5000,emp90@,2020-05-10,,mumbai,Excellent
+,Ankit,,HR,50k,emp164@,,9,,Poor
+E1107,Meera,150,finanec,,emp669@yahoo.com,2020-05-10,14,delhi,Poor
+,Pooja,150,finanec,,emp453@yahoo.com,2020/05/10,,,Good
+ID-1109,Ankit,150,IT,,emp290@yahoo.com,,,suratt,Excellent
+E1110,Sneha,36,H R,,emp367@yahoo.com,2020-05-10,,,Average
+E1111,Amit,60,IT,,emp491@yahoo.com,2020-05-10,,suratt,
+,Rekha,,Finance,,emp870@gmail.com,,-3,Surat,Good
+EMP_1113,Kunal,,HR,50k,emp712@gamil.com,2020/05/10,,delhi,Average
+E1114,Kunal,24,Sales,,emp340@gamil.com,,16,delhi,
+E1115,Ravi,,Finance,,emp169@yahoo.com,05-10-2020,,suratt,
+,Harsh,,IT,,invalid@,2020-05-10,9,Mumbai,Excellent
+ID-1117,John,,Sales,50k,,,,Mumbai,Average
+ID-1118,"Harsh ",,SALEs,,emp333@yahoo.com,,,,Excellent
+EMP_1119,Rekha,26,Sales,,emp832@,2020-05-10,,,Excellent
+E1120,Sam,48,IT,,emp873@yahoo.com,2020-05-10,,delhi,Good
+EMP_1121,Rita,150,SALEs,,emp822@,2020/05/10,-3,,
+E1122,Kunal,,HR,,emp909@gamil.com,2020/05/10,7,,Poor
+EMP_1123,Pooja,,Finance,-5000,emp803@,2020-05-10,,Delhi,Good
+ID-1124,Kunal,,Finance,50k,emp658@gmail.com,10/05/2020,10,mumbai,
+ID-1125,Amit,150,Finance,,emp555@gmail.com,,-3,,Good
+,Ankit,,,,emp896@gamil.com,2020/05/10,,,Poor
+,Sneha,,Sales,50k,emp706@gmail.com,,15,Mumbai,Average
+ID-1128,John,54,finanec,,emp906@gamil.com,,-3,delhi,Excellent
+,Harsh@,,I.T,23183,emp673@,,1,,
+,Ankit,52,I.T,,emp322@gamil.com,2020-05-10,,Mumbai,
+E1131,Rekha,,SALEs,50k,emp322@yahoo.com,2020-05-10,12,Surat,
+,Sneha,40,,50k,noemail,2020/05/10,,Surat,Excellent
+E1133,John,,SALEs,50k,emp181@gamil.com,2020-05-10,,suratt,Good
+E1134,Pooja,,H R,,emp974@gmail.com,,5,Mumbai,Excellent
+,Sam,,,,emp936@,,-3,,Excellent
+,Pooja,43,I.T,,emp919@gamil.com,,,Surat,
+E1137,Ravi,,SALEs,,emp926@yahoo.com,2020-05-10,,suratt,Poor
+,"Harsh ",52,IT,-5000,emp723@gamil.com,,,Mumbai,
+ID-1139,Harsh,,H R,124299,emp405@yahoo.com,10/05/2020,-3,delhi,Good
+,Sneha,,HR,,emp370@gamil.com,,15,Delhi,
+EMP_1141,Ankit,,,,emp274@gmail.com,,,suratt,Good
+ID-1142,Meera,,IT,,emp584@gamil.com,,,suratt,Poor
+E1143,Meera,150,,-5000,invalid@,2020/05/10,20,delhi,Average
+,Sam12,49,SALEs,,emp551@yahoo.com,2020-05-10,,suratt,
+ID-1145,Rekha,,SALEs,50k,emp12@gamil.com,,-3,Delhi,Poor
+ID-1146,Sam,30,Sales,50k,,,16,suratt,EXCELENT
+EMP_1147,John,,Finance,-5000,,,,suratt,Excellent
+EMP_1148,Amit,21,finanec,,emp375@yahoo.com,10/05/2020,8,suratt,
+,John,43,,,emp732@gamil.com,2020-05-10,19,delhi,Good
+ID-1150,Harsh,32,IT,-5000,emp300@yahoo.com,10/05/2020,,delhi,Poor
+E1151,Harsh,,I.T,-5000,,2020-05-10,-3,Delhi,Average
+EMP_1152,Sam,150,Sales,-5000,invalid@,,,suratt,
+ID-1153,Kunal,27,Finance,50k,invalid@,,,delhi,Excellent
+EMP_1154,Harsh,,I.T,9365,emp554@,10/05/2020,-3,,
+ID-1155,Meera,31,I.T,-5000,emp802@yahoo.com,10/05/2020,,suratt,
+EMP_1156,Sam,,I.T,105021,emp660@gmail.com,05-10-2020,,delhi,
+E1157,Sam,60,IT,121228,,,-3,Surat,Excellent
+,Ankit,,Finance,,,05-10-2020,-3,,EXCELENT
+EMP_1159,Ankit,,finanec,,emp974@yahoo.com,2020/05/10,,Surat,
+E1160,Ravi@,52,,47369,emp383@gamil.com,05-10-2020,,Mumbai,Average
+E1161,Rekha,,SALEs,50k,emp562@yahoo.com,,5,,
+ID-1162,Harsh,,finanec,,emp167@gamil.com,2020-05-10,,,Excellent
+EMP_1163,Ankit,,,,emp240@yahoo.com,10/05/2020,-3,,
+,Meera,40,I.T,-5000,emp74@,,-3,Delhi,Good
+ID-1165,Meera,,finanec,68310,emp472@gamil.com,10/05/2020,,suratt,
+ID-1166,Rekha,22,finanec,110662,emp321@gamil.com,05-10-2020,18,Delhi,
+EMP_1167,Amit,,H R,,emp821@gmail.com,2020/05/10,-3,delhi,EXCELENT
+,John,150,H R,-5000,emp196@,,,delhi,
+E1169,Rekha,,IT,66278,emp219@,05-10-2020,,Delhi,Excellent
+,Sam,59,I.T,,emp709@,05-10-2020,,Surat,Poor
+ID-1171,Harsh,,finanec,,emp582@gmail.com,2020-05-10,13,,
+,Rekha,56,SALEs,-5000,emp236@gamil.com,,,mumbai,EXCELENT
+EMP_1173,John,,HR,-5000,emp702@,10/05/2020,13,Surat,Average
+EMP_1174,Amit,150,Sales,,emp564@gamil.com,,-3,,
+EMP_1175,Sam,,Sales,,emp946@,,,,EXCELENT
+E1176,Sam,150,Finance,80722,emp682@gamil.com,10/05/2020,13,suratt,Average
+ID-1177,Amit,150,H R,50k,emp857@,10/05/2020,5,delhi,Good
+EMP_1178,Kunal,,IT,-5000,emp46@gamil.com,10/05/2020,17,mumbai,
+E1179,Rita,150,SALEs,,noemail,2020/05/10,,delhi,
+,Ravi,150,H R,50k,emp336@yahoo.com,2020/05/10,-3,Surat,
+E1181,Sam##,,I.T,,emp617@gmail.com,10/05/2020,,Delhi,Good
+ID-1182,John,,finanec,,emp671@,05-10-2020,-3,,Good
+ID-1183,Pooja@,,Finance,50k,emp411@gmail.com,2020-05-10,,suratt,
+ID-1184,Kunal,23,SALEs,50k,noemail,,,Surat,
+,Pooja,,,111906,emp633@gamil.com,,0,Mumbai,EXCELENT
+ID-1186,Meera##,,finanec,50k,,05-10-2020,,suratt,
+E1187,Kunal12,150,,104081,emp485@gmail.com,2020-05-10,,delhi,Excellent
+ID-1188,Kunal,32,finanec,,emp184@gmail.com,2020-05-10,-3,mumbai,
+E1189,Ravi12,,,100241,,2020-05-10,,Mumbai,
+ID-1190,Meera,150,H R,,emp719@gamil.com,10/05/2020,,Surat,
+,Rekha,,Finance,-5000,emp669@yahoo.com,2020/05/10,0,delhi,Excellent
+,Amit,29,finanec,,emp3@yahoo.com,10/05/2020,,Mumbai,Poor
+,Pooja,59,I.T,,emp569@gamil.com,,,delhi,
+ID-1194,Ravi,,,50k,emp19@gmail.com,2020/05/10,,delhi,
+E1195,"Sam ",,,,emp262@,10/05/2020,-3,delhi,Excellent
+E1196,Meera@,150,HR,70639,emp991@,10/05/2020,,Delhi,Good
+,Amit,,,,emp359@,,,Mumbai,Poor
+EMP_1198,Pooja,52,I.T,,emp15@yahoo.com,2020/05/10,,mumbai,Good
+EMP_1199,Harsh,,,,emp846@gmail.com,05-10-2020,1,delhi,Average
